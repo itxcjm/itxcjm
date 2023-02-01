@@ -15,11 +15,11 @@ function generateProgressBar() {
 }
 
 const readme = `\
+### Hi there 👋
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-
-### Blog：https://www.itxcjm.top
-![GithubStats](https://github-readme-stats.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact)\
+---
+⏰ Updated on ${new Date().toUTCString()}
+![Progress Bar CI](https://github.com/itxcjm/itxcjm/workflows/Progress%20Bar%20CI/badge.svg)\
 `
 
 console.log(readme)
