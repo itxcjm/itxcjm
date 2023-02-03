@@ -23,7 +23,7 @@ const readme = `\
 
 ---
 ### Blog：https://www.itxcjm.top
-![GithubStats](https://github-readme-stats.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact)
+![GithubStats](https://github-readme-stats.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact)\
 `
 
