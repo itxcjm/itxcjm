@@ -15,7 +15,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+⏳ 高中生涯 ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itxcjm/count.svg" />
