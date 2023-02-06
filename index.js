@@ -1,7 +1,7 @@
 
 const thisYear = new Date().getFullYear()
-const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
-const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
+const startTimeOfThisYear = new Date(`2021-09-01T00:00:00+00:00`).getTime()
+const endTimeOfThisYear = new Date(`2024-06-07T00:00:00+00:00`).getTime()
 const progressOfThisYear = (Date.now() - startTimeOfThisYear) / (endTimeOfThisYear - startTimeOfThisYear)
 const progressBarOfThisYear = generateProgressBar()
 
