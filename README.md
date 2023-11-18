@@ -1,4 +1,4 @@
-⏳ 高中生涯 { ███████████████████████▁▁▁▁▁▁▁ } 79.98 %
+⏳ 高中生涯 { ████████████████████████▁▁▁▁▁▁ } 80.00 %
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/itxcjm/count.svg" />
