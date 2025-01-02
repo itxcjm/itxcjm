@@ -7,7 +7,6 @@
 ---
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
-### :bar_chart: 每月编码时间
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
 
