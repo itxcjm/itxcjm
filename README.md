@@ -8,17 +8,15 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%203%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-238-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-239-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-719.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 81.6 kB Used in GitHub's Storage 
- > 
-> 🏆 51 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -29,21 +27,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                52 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
-🌆 Daytime                219 commits         █████████████████░░░░░░░░   66.36 % 
-🌃 Evening                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+🌞 Morning                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+🌆 Daytime                221 commits         █████████████████░░░░░░░░   66.37 % 
+🌃 Evening                53 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+🌙 Night                  6 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
-Wednesday                213 commits         ████████████████░░░░░░░░░   64.55 % 
-Thursday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
-Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Saturday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Sunday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+Monday                   36 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
+Wednesday                213 commits         ████████████████░░░░░░░░░   63.96 % 
+Thursday                 9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+Friday                   22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Saturday                 22 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Sunday                   28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 ```
 
 
@@ -87,7 +85,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2025 18:42:39 UTC
+ Last Updated on 05/01/2025 18:41:54 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
