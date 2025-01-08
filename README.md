@@ -8,17 +8,15 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-240-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-245-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-720.5%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 81.6 kB Used in GitHub's Storage 
- > 
-> 🏆 52 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,7 +86,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2025 18:44:48 UTC
+ Last Updated on 08/01/2025 18:45:18 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
