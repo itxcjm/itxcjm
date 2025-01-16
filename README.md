@@ -8,9 +8,9 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-134-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-754.9%20thousand%20lines%20of%20code-blue)
 
@@ -18,11 +18,9 @@
 
 > 📦 81.6 kB Used in GitHub's Storage 
  > 
-> 🏆 73 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 37 Public Repositories 
+> 📜 38 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -53,24 +51,23 @@ Sunday                   41 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 9 mins        ██████████████████░░░░░░░   70.61 % 
-JavaScript               1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
-JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Python                   14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Vue.js                   5 hrs 9 mins        █████████████████░░░░░░░░   68.28 % 
+JavaScript               1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
+JSON                     36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Debian Control file      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 57 mins       ████████████████████████░   95.18 % 
-PyCharm                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+WebStorm                 6 hrs 57 mins       ███████████████████████░░   92.04 % 
+VS Code                  36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 🐱‍💻 Projects: 
-flytools-linux           6 hrs 57 mins       ████████████████████████░   95.18 % 
-choujiang                14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-flytools                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+flytools-linux           6 hrs 57 mins       ███████████████████████░░   92.04 % 
+build                    29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
+flytools                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Linux                    7 hrs 18 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +83,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/01/2025 18:43:12 UTC
+ Last Updated on 16/01/2025 18:43:29 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
