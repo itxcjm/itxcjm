@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -51,16 +51,24 @@ Sunday                   43 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   1 hr 51 mins        ███████████████░░░░░░░░░░   58.44 % 
+Python                   1 hr 17 mins        ██████████░░░░░░░░░░░░░░░   40.46 % 
+textmate                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 1 hr 51 mins        ███████████████░░░░░░░░░░   58.44 % 
+PyCharm                  1 hr 19 mins        ██████████░░░░░░░░░░░░░░░   41.56 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sjzu-gpt-frontend        1 hr 39 mins        █████████████░░░░░░░░░░░░   52.08 % 
+sjzu-gpt-backend         1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   37.90 % 
+flytools-linux           12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+choujiang                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    3 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +84,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2025 18:44:13 UTC
+ Last Updated on 22/02/2025 18:41:18 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
