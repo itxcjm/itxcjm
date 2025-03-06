@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-43%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -17,6 +17,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 81.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 83 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,26 +53,26 @@ Sunday                   43 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   5 hrs 38 mins       ██████████████░░░░░░░░░░░   57.75 % 
-Python                   3 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   32.16 % 
-JavaScript               24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-HTTP Request             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Vue.js                   6 hrs 4 mins        ██████████████░░░░░░░░░░░   54.16 % 
+Python                   4 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   38.65 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+HTTP Request             13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-WebStorm                 6 hrs 12 mins       ████████████████░░░░░░░░░   63.46 % 
-PyCharm                  3 hrs 24 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
-Cursor                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+WebStorm                 6 hrs 27 mins       ██████████████░░░░░░░░░░░   57.53 % 
+PyCharm                  4 hrs 36 mins       ██████████░░░░░░░░░░░░░░░   41.06 % 
+Cursor                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🐱‍💻 Projects: 
-sjzu-deepseek-frontend_yi2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-sjzu-zxfdy-frontend      2 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-sjzu-zxfdy-backend       1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
-sjzu-deepseek-frontend   1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-sjzu-deepseek-backend_yib1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+sjzu-zxfdy-frontend      3 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.83 % 
+sjzu-zxfdy-backend       2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+sjzu-deepseek-frontend_yi2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.26 % 
+sjzu-deepseek-backend_yib1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+sjzu-deepseek-frontend   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 💻 Operating System: 
-Linux                    9 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +88,7 @@ PHP                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/03/2025 18:47:24 UTC
+ Last Updated on 06/03/2025 18:45:59 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
