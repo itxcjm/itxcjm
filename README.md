@@ -51,21 +51,16 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   31 mins             ███████████████████████░░   92.30 % 
-JSON                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+Vue.js                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-HbuilderX                33 mins             █████████████████████████   99.96 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+WebStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Book                     24 mins             ██████████████████░░░░░░░   71.41 % 
-quanzi_ketang            9 mins              ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-sjzu-aidianqi-frontend   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-xmezxsh                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+sjzu-aidianqi-frontend   0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  33 mins             █████████████████████████   100.00 % 
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +76,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2025 18:44:08 UTC
+ Last Updated on 30/03/2025 18:44:08 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
