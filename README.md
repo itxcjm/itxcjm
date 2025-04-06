@@ -51,16 +51,18 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   0 secs              ████████████████░░░░░░░░░   63.25 % 
+JSON                     0 secs              █████████░░░░░░░░░░░░░░░░   36.75 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+HbuilderX                0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sjzuers                  0 secs              ██████████████░░░░░░░░░░░   56.55 % 
+xmezxsh                  0 secs              ███████████░░░░░░░░░░░░░░   43.45 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +78,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/04/2025 18:43:22 UTC
+ Last Updated on 06/04/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
