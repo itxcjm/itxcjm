@@ -8,11 +8,11 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-63%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-811.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-817.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -27,21 +27,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-🌆 Daytime                251 commits         ███████████████░░░░░░░░░░   59.62 % 
-🌃 Evening                84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-🌙 Night                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌆 Daytime                256 commits         ███████████████░░░░░░░░░░   59.95 % 
+🌃 Evening                84 commits          █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-Wednesday                222 commits         █████████████░░░░░░░░░░░░   52.73 % 
-Thursday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Friday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Saturday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-Sunday                   48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Monday                   57 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
+Tuesday                  10 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Wednesday                223 commits         █████████████░░░░░░░░░░░░   52.22 % 
+Thursday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
+Friday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Saturday                 37 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Sunday                   49 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
 ```
 
 
@@ -51,16 +51,21 @@ Sunday                   48 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   37 mins             ████████████████████████░   96.32 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 37 mins             ████████████████████████░   96.33 % 
+PyCharm                  1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sjzu-zxfdy-frontend      21 mins             █████████████░░░░░░░░░░░░   53.82 % 
+sjzu-aidianqi-frontend   16 mins             ███████████░░░░░░░░░░░░░░   42.51 % 
+sjzu-ai-api              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -76,7 +81,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/05/2025 18:49:20 UTC
+ Last Updated on 08/05/2025 18:50:08 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
