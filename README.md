@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,6 +17,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 8.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 126 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,21 +53,23 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue.js                   5 mins              ████████████████░░░░░░░░░   62.45 % 
-Python                   3 mins              █████████░░░░░░░░░░░░░░░░   37.15 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   11 mins             ████████████████░░░░░░░░░   65.59 % 
+Vue.js                   5 mins              █████████░░░░░░░░░░░░░░░░   34.13 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-WebStorm                 5 mins              ████████████████░░░░░░░░░   62.71 % 
-PyCharm                  3 mins              █████████░░░░░░░░░░░░░░░░   37.29 % 
+PyCharm                  11 mins             ████████████████░░░░░░░░░   65.72 % 
+WebStorm                 5 mins              █████████░░░░░░░░░░░░░░░░   34.28 % 
 
 🐱‍💻 Projects: 
-sjzu-aidianqi-frontend   5 mins              ████████████████░░░░░░░░░   62.71 % 
-sjzu-ai-api              3 mins              █████████░░░░░░░░░░░░░░░░   37.29 % 
+pythonProject            7 mins              ███████████░░░░░░░░░░░░░░   43.82 % 
+sjzu-aidianqi-frontend   5 mins              █████████░░░░░░░░░░░░░░░░   34.28 % 
+sjzu-ai-api              3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
 
 💻 Operating System: 
-Linux                    9 mins              █████████████████████████   100.00 % 
+Linux                    9 mins              ██████████████░░░░░░░░░░░   54.66 % 
+Windows                  7 mins              ███████████░░░░░░░░░░░░░░   45.34 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +85,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/05/2025 18:49:46 UTC
+ Last Updated on 31/05/2025 18:46:56 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
