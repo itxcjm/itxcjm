@@ -18,6 +18,8 @@
 
 > 📦 8.4 kB Used in GitHub's Storage 
  > 
+> 🏆 126 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -51,23 +53,18 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   11 mins             ████████████████░░░░░░░░░   65.59 % 
-Vue.js                   5 mins              █████████░░░░░░░░░░░░░░░░   34.13 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Python                   7 mins              █████████████████████████   99.87 % 
 Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-PyCharm                  11 mins             ████████████████░░░░░░░░░   65.72 % 
-WebStorm                 5 mins              █████████░░░░░░░░░░░░░░░░   34.28 % 
+PyCharm                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pythonProject            7 mins              ███████████░░░░░░░░░░░░░░   43.82 % 
-sjzu-aidianqi-frontend   5 mins              █████████░░░░░░░░░░░░░░░░   34.28 % 
-sjzu-ai-api              3 mins              █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+pythonProject            7 mins              ████████████████████████░   96.64 % 
+sjzu-ai-api              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
 
 💻 Operating System: 
-Linux                    9 mins              ██████████████░░░░░░░░░░░   54.66 % 
-Windows                  7 mins              ███████████░░░░░░░░░░░░░░   45.34 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +80,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2025 18:47:25 UTC
+ Last Updated on 05/06/2025 18:58:52 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
