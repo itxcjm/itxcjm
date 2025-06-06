@@ -18,8 +18,6 @@
 
 > 📦 8.4 kB Used in GitHub's Storage 
  > 
-> 🏆 126 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -60,8 +58,8 @@ Docker                   0 secs              ░░░░░░░░░░░�
 PyCharm                  7 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-pythonProject            7 mins              ████████████████████████░   96.64 % 
-sjzu-ai-api              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+pythonProject            7 mins              ████████████████████████░   96.69 % 
+sjzu-ai-api              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 💻 Operating System: 
 Windows                  7 mins              █████████████████████████   100.00 % 
@@ -80,7 +78,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/06/2025 18:58:52 UTC
+ Last Updated on 06/06/2025 18:50:28 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
