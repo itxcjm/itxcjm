@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-64%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -17,6 +17,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 8.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 126 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,18 +53,22 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   7 mins              █████████████████████████   99.87 % 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Shell Script             18 mins             █████████░░░░░░░░░░░░░░░░   37.24 % 
+Markdown                 13 mins             ███████░░░░░░░░░░░░░░░░░░   27.06 % 
+Kotlin                   10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Java Properties          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 🔥 Editors: 
-PyCharm                  7 mins              █████████████████████████   100.00 % 
+IntelliJ IDEA            49 mins             █████████████████████████   99.77 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🐱‍💻 Projects: 
-pythonProject            7 mins              ████████████████████████░   96.69 % 
-sjzu-ai-api              0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+VS_tournament_continued  49 mins             █████████████████████████   99.77 % 
+pythonProject            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -78,7 +84,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2025 18:50:28 UTC
+ Last Updated on 07/06/2025 18:47:19 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
