@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-65%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-67%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -17,8 +17,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 8.4 kB Used in GitHub's Storage 
- > 
-> 🏆 126 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,22 +51,28 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Shell Script             18 mins             █████████░░░░░░░░░░░░░░░░   37.24 % 
-Markdown                 13 mins             ███████░░░░░░░░░░░░░░░░░░   27.06 % 
-Kotlin                   10 mins             █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
-YAML                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Java Properties          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+Python                   27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
+JavaScript               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+HTML                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Shell Script             18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+JSON                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 
 🔥 Editors: 
-IntelliJ IDEA            49 mins             █████████████████████████   99.77 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+IntelliJ IDEA            49 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
+VS Code                  44 mins             ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+PyCharm                  28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
+HbuilderX                14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
+GoLand                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 🐱‍💻 Projects: 
-VS_tournament_continued  49 mins             █████████████████████████   99.77 % 
-pythonProject            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+VS_tournament_continued  49 mins             ████████░░░░░░░░░░░░░░░░░   32.77 % 
+map                      44 mins             ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+shuwei-eams-schedule-push28 mins             █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+sjzuers                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+WeCourseService          13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +88,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/06/2025 18:51:11 UTC
+ Last Updated on 11/06/2025 18:51:36 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
