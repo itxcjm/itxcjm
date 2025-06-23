@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -17,6 +17,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 8.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 131 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,25 +53,26 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 57 mins        █████████░░░░░░░░░░░░░░░░   37.58 % 
-Markdown                 1 hr 31 mins        ███████░░░░░░░░░░░░░░░░░░   29.24 % 
-YAML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
-XML                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Java                     2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   44.00 % 
+Markdown                 1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   26.50 % 
+YAML                     44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+Properties               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 23 mins       ████████████████░░░░░░░░░   65.09 % 
-WebStorm                 1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   34.64 % 
+IntelliJ IDEA            3 hrs 49 mins       ███████████████████░░░░░░   74.04 % 
+WebStorm                 1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-alipay-api               3 hrs 20 mins       ████████████████░░░░░░░░░   64.08 % 
-welcome                  1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   34.61 % 
-VS_tournament_continued  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+alipay-api               3 hrs 21 mins       ████████████████░░░░░░░░░   64.96 % 
+welcome                  1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
+spring-ai-alibaba-example25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+VS_tournament_continued  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 💻 Operating System: 
-Windows                  5 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +88,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 18:48:36 UTC
+ Last Updated on 23/06/2025 18:51:58 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
