@@ -18,8 +18,6 @@
 
 > 📦 8.4 kB Used in GitHub's Storage 
  > 
-> 🏆 131 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -53,22 +51,21 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 16 mins       ███████████████░░░░░░░░░░   60.09 % 
-YAML                     44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Properties               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-GitIgnore file           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Java                     18 mins             ██████████████████░░░░░░░   72.71 % 
+GitIgnore file           4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Batchfile                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 47 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-alipay-api               3 hrs 21 mins       ██████████████████████░░░   88.70 % 
-spring-ai-alibaba-example25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+spring-ai-alibaba-example25 mins             ████████████████████████░   95.78 % 
+alipay-api               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
 
 💻 Operating System: 
-Windows                  3 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  26 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -84,7 +81,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/06/2025 18:51:37 UTC
+ Last Updated on 27/06/2025 18:50:52 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
