@@ -51,21 +51,16 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     18 mins             ██████████████████░░░░░░░   72.71 % 
-GitIgnore file           4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
-Batchfile                2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-spring-ai-alibaba-example25 mins             ████████████████████████░   95.78 % 
-alipay-api               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  26 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +76,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2025 18:48:22 UTC
+ Last Updated on 30/06/2025 18:51:49 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
