@@ -51,12 +51,13 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PHP                      5 mins              █████████████████████░░░░   83.98 % 
-Bash                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+PHP                      5 mins              █████████████████████░░░░   84.57 % 
+Bash                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+VS Code                  6 mins              ████████████████████████░   96.33 % 
+PhpStorm                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
 
 🐱‍💻 Projects: 
 tp                       6 mins              █████████████████████████   100.00 % 
@@ -78,7 +79,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2025 18:50:45 UTC
+ Last Updated on 04/07/2025 18:49:59 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
