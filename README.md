@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -17,6 +17,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 8.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 133 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -51,22 +53,22 @@ Sunday                   49 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 56 mins       █████████████████████░░░░   84.11 % 
-HTML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python                   4 hrs 1 min         █████████████████████░░░░   84.35 % 
+HTML                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Text                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-PyCharm                  4 hrs 39 mins       █████████████████████████   99.07 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+PyCharm                  4 hrs 43 mins       █████████████████████████   99.09 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🐱‍💻 Projects: 
-dormfee                  4 hrs 32 mins       ████████████████████████░   96.83 % 
-qwjoin                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+dormfee                  4 hrs 32 mins       ████████████████████████░   95.31 % 
+qwjoin                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 💻 Operating System: 
-Windows                  4 hrs 41 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +84,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2025 18:55:41 UTC
+ Last Updated on 23/07/2025 18:54:55 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
