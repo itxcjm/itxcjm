@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -51,22 +51,22 @@ Sunday                   52 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PHP                      3 hrs 50 mins       ████████████████░░░░░░░░░   64.63 % 
-HTML                     1 hr 45 mins        ███████░░░░░░░░░░░░░░░░░░   29.49 % 
-Log                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-.env file                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+PHP                      6 hrs 27 mins       ██████████████████░░░░░░░   70.64 % 
+HTML                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+.env file                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Log                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-PhpStorm                 5 hrs 57 mins       █████████████████████████   100.00 % 
+PhpStorm                 9 hrs 9 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-miniOA                   5 hrs 35 mins       ███████████████████████░░   93.96 % 
-ReviewPod                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-reviewpod.local          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+miniOA                   6 hrs 54 mins       ███████████████████░░░░░░   75.54 % 
+ReviewPod                2 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   23.84 % 
+reviewpod.local          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-Windows                  5 hrs 57 mins       █████████████████████████   100.00 % 
+Windows                  9 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 18:51:20 UTC
+ Last Updated on 21/08/2025 18:49:21 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
