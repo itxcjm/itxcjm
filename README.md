@@ -10,15 +10,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-149%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-61-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 8.5 kB Used in GitHub's Storage 
- > 
-> 🏆 155 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -53,23 +51,23 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PHP                      11 hrs 50 mins      █████████████████░░░░░░░░   67.64 % 
-HTML                     4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   27.30 % 
-.env file                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Log                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+PHP                      10 hrs 21 mins      █████████████████░░░░░░░░   69.41 % 
+HTML                     3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+.env file                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Log                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-PhpStorm                 16 hrs 54 mins      ████████████████████████░   96.57 % 
-VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+PhpStorm                 14 hrs 19 mins      ████████████████████████░   95.97 % 
+VS Code                  36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
 
 🐱‍💻 Projects: 
-ReviewPod                9 hrs 42 mins       ██████████████░░░░░░░░░░░   55.44 % 
-miniOA                   7 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
-reviewpod.local          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+ReviewPod                9 hrs 42 mins       ████████████████░░░░░░░░░   65.06 % 
+miniOA                   4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
+reviewpod.local          27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 💻 Operating System: 
-Windows                  17 hrs 30 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -85,7 +83,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2025 18:51:11 UTC
+ Last Updated on 26/08/2025 18:49:15 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
