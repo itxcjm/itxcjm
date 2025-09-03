@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-152%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-52-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-53-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865.6%20thousand%20lines%20of%20code-blue)
 
@@ -51,23 +51,23 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-HTML                     1 hr 11 mins        ███████████░░░░░░░░░░░░░░   44.26 % 
-PHP                      38 mins             ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
-JSON                     25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Python                   16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+HTML                     1 hr 11 mins        █████████████████░░░░░░░░   66.77 % 
+JSON                     25 mins             ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
+JavaScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-Trae                     2 hrs 41 mins       █████████████████████████   99.98 % 
-PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Trae                     1 hr 47 mins        █████████████████████████   99.97 % 
+PhpStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-photo                    1 hr 30 mins        ██████████████░░░░░░░░░░░   55.65 % 
-map-html                 1 hr 11 mins        ███████████░░░░░░░░░░░░░░   44.33 % 
-miniOA                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+map-html                 1 hr 11 mins        █████████████████░░░░░░░░   66.88 % 
+photo                    35 mins             ████████░░░░░░░░░░░░░░░░░   33.09 % 
+miniOA                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +83,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2025 18:47:26 UTC
+ Last Updated on 03/09/2025 18:45:50 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
