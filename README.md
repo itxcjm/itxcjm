@@ -8,6 +8,8 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-153%20hrs%2028%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865.6%20thousand%20lines%20of%20code-blue)
@@ -24,6 +26,47 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                68 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
+🌆 Daytime                261 commits         ███████████████░░░░░░░░░░   58.26 % 
+🌃 Evening                98 commits          █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+Tuesday                  15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+Wednesday                227 commits         █████████████░░░░░░░░░░░░   50.67 % 
+Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
+Saturday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Sunday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+PHP                      26 mins             █████████████░░░░░░░░░░░░   53.33 % 
+JavaScript               17 mins             █████████░░░░░░░░░░░░░░░░   34.52 % 
+CSS                      6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
+
+🔥 Editors: 
+Trae                     49 mins             █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+livephoto.local          49 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  49 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -37,7 +80,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2025 18:42:58 UTC
+ Last Updated on 21/09/2025 18:45:10 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
