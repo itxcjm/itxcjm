@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -53,19 +53,20 @@ Sunday                   53 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PHP                      15 mins             █████████████████████░░░░   83.77 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-JSON                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
-CSS                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+PHP                      16 mins             ██████████████████░░░░░░░   70.82 % 
+Text                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+JavaScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+JSON                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
+Python                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-Trae                     18 mins             █████████████████████████   100.00 % 
+Trae                     23 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-photo                    18 mins             █████████████████████████   100.00 % 
+photo                    23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +82,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2025 18:44:21 UTC
+ Last Updated on 13/10/2025 18:48:24 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
