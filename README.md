@@ -8,7 +8,7 @@
 ### Blog：https://www.itxcjm.top
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -73,17 +73,17 @@ Windows                  9 mins              ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               12 repos            ███████░░░░░░░░░░░░░░░░░░   27.91 % 
+Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
+HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+Vue                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
 
 
- Last Updated on 24/10/2025 18:48:20 UTC
+ Last Updated on 25/10/2025 18:46:30 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
