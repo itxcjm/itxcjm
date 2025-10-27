@@ -23,7 +23,8 @@ const readme = `\
 
 ---
 ### Blog：https://www.itxcjm.top
-### 主要活跃于 [@moefire](https://github.com/moefire)
+### 主要活跃于 [@Moefire](https://github.com/moefire)
+### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)\
 `
