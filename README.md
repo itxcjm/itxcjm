@@ -9,8 +9,6 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2036%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-865.6%20thousand%20lines%20of%20code-blue)
@@ -27,45 +25,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                68 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-🌆 Daytime                261 commits         ██████████████░░░░░░░░░░░   58.00 % 
-🌃 Evening                98 commits          █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
-🌙 Night                  23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   58 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Tuesday                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Wednesday                227 commits         █████████████░░░░░░░░░░░░   50.44 % 
-Thursday                 20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Friday                   35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Saturday                 40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Sunday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -79,7 +38,7 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025 18:50:05 UTC
+ Last Updated on 01/11/2025 18:44:44 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
