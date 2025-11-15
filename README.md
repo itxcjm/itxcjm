@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -17,7 +17,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 8.5 kB Used in GitHub's Storage 
+> 📦 8.6 kB Used in GitHub's Storage 
  > 
 > 🏆 159 Contributions in the Year 2025
  > 
@@ -54,23 +54,23 @@ Sunday                   46 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 8 mins        █████████████████████░░░░   84.76 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-textmate                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Java                     3 hrs 50 mins       █████████████████████░░░░   85.14 % 
+JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+textmate                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 36 mins       ████████████████████████░   97.53 % 
-PyCharm                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+IntelliJ IDEA            4 hrs 25 mins       ████████████████████████░   97.98 % 
+PyCharm                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🐱‍💻 Projects: 
-langrensha-1.21.8        3 hrs 36 mins       ████████████████████████░   97.26 % 
-PyCharmMiscProject       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+langrensha-1.21.8        4 hrs 19 mins       ████████████████████████░   95.82 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+PyCharmMiscProject       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
 
 💻 Operating System: 
-Windows                  3 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -86,7 +86,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2025 18:51:01 UTC
+ Last Updated on 15/11/2025 18:46:55 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
