@@ -9,9 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2049%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.1%20thousand%20lines%20of%20code-blue)
 
@@ -27,52 +25,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                66 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌆 Daytime                258 commits         ████████████████░░░░░░░░░   62.02 % 
-🌃 Evening                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
-🌙 Night                  21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   52 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Tuesday                  16 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Wednesday                220 commits         █████████████░░░░░░░░░░░░   52.88 % 
-Thursday                 15 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Friday                   31 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
-Saturday                 36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Sunday                   46 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Java                     3 hrs 50 mins       █████████████████████░░░░   85.14 % 
-JSON                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-textmate                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-XML                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-
-🔥 Editors: 
-IntelliJ IDEA            4 hrs 25 mins       ████████████████████████░   97.98 % 
-PyCharm                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-
-🐱‍💻 Projects: 
-langrensha-1.21.8        4 hrs 19 mins       ████████████████████████░   95.82 % 
-Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-PyCharmMiscProject       3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-
-💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -86,7 +38,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/11/2025 18:46:55 UTC
+ Last Updated on 16/11/2025 18:46:59 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
