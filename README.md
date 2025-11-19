@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-632.1%20thousand%20lines%20of%20code-blue)
 
@@ -54,22 +54,22 @@ Sunday                   46 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 50 mins       ██████████████████████░░░   89.89 % 
-JSON                     28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-textmate                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Java                     5 hrs 20 mins       ███████████████████████░░   92.09 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-IntelliJ IDEA            6 hrs 30 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            5 hrs 48 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-langrensha-1.21.8        3 hrs 19 mins       █████████████░░░░░░░░░░░░   51.14 % 
-softwareTesting2         3 hrs 5 mins        ████████████░░░░░░░░░░░░░   47.50 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+softwareTesting2         3 hrs 5 mins        █████████████░░░░░░░░░░░░   53.23 % 
+langrensha-1.21.8        2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.24 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Windows                  6 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +85,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2025 18:52:39 UTC
+ Last Updated on 19/11/2025 18:49:37 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
