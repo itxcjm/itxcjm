@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-181%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-182%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -54,25 +54,22 @@ Sunday                   46 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 7 mins        ███████████████░░░░░░░░░░   60.15 % 
-PHP                      1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
-HTML                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-.env file                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+PHP                      2 hrs 9 mins        █████████████████░░░░░░░░   66.71 % 
+HTML                     45 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+.env file                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+GitIgnore file           4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 7 mins        ███████████████░░░░░░░░░░   60.15 % 
-PhpStorm                 2 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   39.85 % 
+PhpStorm                 3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-softwareTesting2         3 hrs 5 mins        ███████████████░░░░░░░░░░   59.58 % 
-livephoto                1 hr 44 mins        ████████░░░░░░░░░░░░░░░░░   33.60 % 
-miniOA                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-langrensha-1.21.8        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
-ReviewPod                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+livephoto                2 hrs 49 mins       ██████████████████████░░░   87.28 % 
+miniOA                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+ReviewPod                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 
 💻 Operating System: 
-Windows                  5 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -88,7 +85,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 18:47:43 UTC
+ Last Updated on 23/11/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
