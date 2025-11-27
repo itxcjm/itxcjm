@@ -65,7 +65,7 @@ PhpStorm                 3 hrs 13 mins       ███████████�
 IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-livephoto                2 hrs 49 mins       ██████████████████████░░░   87.26 % 
+livephoto                2 hrs 49 mins       ██████████████████████░░░   87.27 % 
 miniOA                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
 ReviewPod                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 langrensha-1.21.8        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
@@ -87,7 +87,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2025 18:50:58 UTC
+ Last Updated on 27/11/2025 18:49:37 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
