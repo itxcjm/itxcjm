@@ -54,19 +54,14 @@ Sunday                   46 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     0 secs              ██████████░░░░░░░░░░░░░░░   41.31 % 
-PHP                      0 secs              █████████░░░░░░░░░░░░░░░░   34.39 % 
-Properties               0 secs              ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-HTML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+PHP                      0 secs              █████████████████████░░░░   82.40 % 
+HTML                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              ███████████████░░░░░░░░░░   58.27 % 
-PhpStorm                 0 secs              ██████████░░░░░░░░░░░░░░░   41.73 % 
+PhpStorm                 0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-langrensha-1.21.8        0 secs              ███████████████░░░░░░░░░░   58.27 % 
-livephoto                0 secs              ██████████░░░░░░░░░░░░░░░   41.73 % 
+livephoto                0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
@@ -85,7 +80,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2025 18:48:25 UTC
+ Last Updated on 01/12/2025 18:57:30 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
