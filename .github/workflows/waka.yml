@@ -14,7 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          WAKATIME_API_URL: ${{ secrets.WAKATIME_API_URL }}
           # 时间线
           SHOW_LOC_CHART: False
           SHOW_LINES_OF_CODE: True
