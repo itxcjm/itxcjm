@@ -9,9 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-631.89%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -54,21 +54,24 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Svelte                   58 mins             █████████████████░░░░░░░░   68.49 % 
-HTML                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-XML                      6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+C#                       2 hrs 9 mins        ███████████████░░░░░░░░░░   58.62 % 
+Svelte                   58 mins             ███████░░░░░░░░░░░░░░░░░░   26.57 % 
+HTML                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+XML                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  1 hr 25 mins        █████████████████████████   100.00 % 
+Rider                    2 hrs 9 mins        ███████████████░░░░░░░░░░   58.62 % 
+VS Code                  1 hr 31 mins        ██████████░░░░░░░░░░░░░░░   41.38 % 
 
 🐱‍💻 Projects: 
-Pages                    1 hr 5 mins         ███████████████████░░░░░░   75.79 % 
-test                     20 mins             ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+sjzu                     2 hrs 9 mins        ███████████████░░░░░░░░░░   58.62 % 
+Pages                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.40 % 
+test                     26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+glb                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 25 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -84,7 +87,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/01/2026 18:52:10 UTC
+ Last Updated on 11/01/2026 18:51:27 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
