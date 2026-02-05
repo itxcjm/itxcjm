@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-231%20hrs%201%20min-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,26 +54,26 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 8 hrs 34 mins       ███████████████░░░░░░░░░░   59.68 % 
-Kotlin                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-TypeScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Java                     52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
-PowerShell               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+Markdown                 9 hrs 24 mins       ███████████████░░░░░░░░░░   58.40 % 
+Java                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+Kotlin                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+JSON                     46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 26 mins      ██████████████████████░░░   86.53 % 
-IntelliJ IDEA            1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-Android Studio           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+VS Code                  13 hrs 44 mins      █████████████████████░░░░   85.31 % 
+IntelliJ IDEA            1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Android Studio           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 
 🐱‍💻 Projects: 
-tutorlite                3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
-iam                      3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-PocketCare               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-vulnreport-addon         2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Script-Whitelist-Guard   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+iam                      5 hrs 55 mins       █████████░░░░░░░░░░░░░░░░   36.80 % 
+tutorlite                3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+PocketCare               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
+vulnreport-addon         1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+Script-Whitelist-Guard   1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
 
 💻 Operating System: 
-Windows                  14 hrs 22 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ Java                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/02/2026 19:23:13 UTC
+ Last Updated on 05/02/2026 19:14:07 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
