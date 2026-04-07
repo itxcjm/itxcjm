@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2055%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,25 +54,24 @@ Sunday                   26 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 58 mins       █████████████░░░░░░░░░░░░   51.63 % 
-Other                    1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-HTML                     1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-.env file                30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Python                   3 hrs 41 mins       ███████████░░░░░░░░░░░░░░   45.15 % 
+Other                    1 hr 49 mins        ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+HTML                     1 hr 10 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🔥 Editors: 
-PyCharm                  3 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   41.59 % 
-Claude Code              2 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
-VS Code                  1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Claude Code              2 hrs 51 mins       █████████░░░░░░░░░░░░░░░░   35.01 % 
+VS Code                  2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.55 % 
+PyCharm                  2 hrs 34 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
 
 🐱‍💻 Projects: 
-hr                       5 hrs 44 mins       ███████████████████░░░░░░   74.54 % 
-Unknown Project          1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-新建文件夹                    48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-wecom-saas-platform      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+hr                       6 hrs 19 mins       ███████████████████░░░░░░   77.21 % 
+Unknown Project          1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
+新建文件夹                    48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
 
 💻 Operating System: 
-Windows                  7 hrs 42 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -88,7 +87,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2026 19:36:36 UTC
+ Last Updated on 07/04/2026 19:37:10 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
