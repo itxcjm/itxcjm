@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-277%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -80,17 +80,17 @@ Windows                  4 hrs 36 mins       ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Python                   7 repos             █████░░░░░░░░░░░░░░░░░░░░   18.42 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+PHP                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Java                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
 ```
 
 
 
 
- Last Updated on 27/04/2026 19:55:05 UTC
+ Last Updated on 28/04/2026 20:02:29 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
