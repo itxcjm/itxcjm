@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-287%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,24 +54,24 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
-PHP                      2 hrs 12 mins       ██████████░░░░░░░░░░░░░░░   39.12 % 
-.env file                20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+Vue                      2 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   37.91 % 
+PHP                      2 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
+.env file                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Bash                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
 
 🔥 Editors: 
-PhpStorm                 5 hrs 32 mins       █████████████████████████   98.05 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+PhpStorm                 6 hrs 11 mins       █████████████████████████   98.25 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 
 🐱‍💻 Projects: 
-doc                      5 hrs 32 mins       ████████████████████████░   97.91 % 
-bim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-maoyiping                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
-oauth-custom-oauth2      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+doc                      6 hrs 10 mins       █████████████████████████   98.13 % 
+bim                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+maoyiping                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+oauth-custom-oauth2      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2026 20:18:00 UTC
+ Last Updated on 14/05/2026 20:14:29 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
