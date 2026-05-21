@@ -54,19 +54,16 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-PHP                      10 mins             ██████░░░░░░░░░░░░░░░░░░░   25.91 % 
-TypeScript               9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-JSON                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-Vue                      9 mins              ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-doc                      38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  38 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +79,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2026 20:34:54 UTC
+ Last Updated on 21/05/2026 20:20:17 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
