@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,20 +54,24 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   27 mins             ██████████████████████░░░   86.71 % 
-JavaScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+TypeScript               30 mins             █████████░░░░░░░░░░░░░░░░   37.32 % 
+Python                   29 mins             █████████░░░░░░░░░░░░░░░░   36.17 % 
+CSS                      10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Other                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 1 min          ███████████████████░░░░░░   74.49 % 
+WebStorm                 21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
 
 🐱‍💻 Projects: 
-core                     16 mins             █████████████░░░░░░░░░░░░   52.38 % 
-26电工建模                   7 mins              ██████░░░░░░░░░░░░░░░░░░░   22.56 % 
-New project 2            4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-frontend                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+frontend                 46 mins             ██████████████░░░░░░░░░░░   56.32 % 
+core                     24 mins             ████████░░░░░░░░░░░░░░░░░   30.04 % 
+26电工建模                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+New project 2            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -83,7 +87,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 20:43:26 UTC
+ Last Updated on 30/05/2026 19:49:44 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
