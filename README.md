@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-311%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,24 +54,24 @@ Sunday                   28 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       18 mins             ████████░░░░░░░░░░░░░░░░░   32.61 % 
-TypeScript               13 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Markdown                 10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.34 % 
-YAML                     9 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Java                     10 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+YAML                     9 mins              ██████████░░░░░░░░░░░░░░░   39.69 % 
+CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Go                       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-VS Code                  30 mins             █████████████░░░░░░░░░░░░   53.23 % 
-GoLand                   23 mins             ██████████░░░░░░░░░░░░░░░   40.36 % 
-WebStorm                 3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+GoLand                   11 mins             ████████████░░░░░░░░░░░░░   46.26 % 
+IntelliJ IDEA            10 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+WebStorm                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 🐱‍💻 Projects: 
-core                     39 mins             █████████████████░░░░░░░░   68.11 % 
-frontend                 16 mins             ███████░░░░░░░░░░░░░░░░░░   27.95 % 
-student-management-system2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+core                     11 mins             ████████████░░░░░░░░░░░░░   46.26 % 
+sjzumc-auth              10 mins             ███████████░░░░░░░░░░░░░░   44.53 % 
+frontend                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
 
 💻 Operating System: 
-Windows                  57 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +87,7 @@ Java                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2026 20:40:38 UTC
+ Last Updated on 09/06/2026 20:28:21 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
