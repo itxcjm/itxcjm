@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-357%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,19 +54,20 @@ Sunday                   52 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     43 mins             ███████████████░░░░░░░░░░   60.59 % 
-SQL                      23 mins             ████████░░░░░░░░░░░░░░░░░   32.58 % 
-XML                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+Markdown                 45 mins             █████████████████░░░░░░░░   67.50 % 
+Java                     17 mins             ███████░░░░░░░░░░░░░░░░░░   26.51 % 
+Python                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 
 🔥 Editors: 
-VS Code                  52 mins             ██████████████████░░░░░░░   72.81 % 
-IntelliJ IDEA            19 mins             ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+VS Code                  54 mins             ████████████████████░░░░░   81.31 % 
+IntelliJ IDEA            12 mins             █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
 
 🐱‍💻 Projects: 
-carbonquota              1 hr 12 mins        █████████████████████████   100.00 % 
+carbonquota              44 mins             █████████████████░░░░░░░░   66.89 % 
+hongshan                 22 mins             ████████░░░░░░░░░░░░░░░░░   33.11 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +83,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 20:26:01 UTC
+ Last Updated on 08/07/2026 20:05:11 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
