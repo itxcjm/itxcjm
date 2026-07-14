@@ -54,19 +54,19 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 15 mins        ██████████████████░░░░░░░   73.42 % 
-SQL                      23 mins             ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Java                     1 hr 2 mins         █████████████████░░░░░░░░   69.71 % 
+SQL                      23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 
 🔥 Editors: 
-VS Code                  1 hr 17 mins        ███████████████████░░░░░░   75.39 % 
-IntelliJ IDEA            25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+VS Code                  1 hr 17 mins        █████████████████████░░░░   85.91 % 
+IntelliJ IDEA            12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
 
 🐱‍💻 Projects: 
-carbonquota              1 hr 42 mins        █████████████████████████   100.00 % 
+carbonquota              1 hr 29 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 42 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 29 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +82,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 19:59:16 UTC
+ Last Updated on 14/07/2026 19:52:16 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
