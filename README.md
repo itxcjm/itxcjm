@@ -9,9 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-358%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2020%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-971.09%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -54,16 +54,24 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TeX                      2 hrs 53 mins       █████████████░░░░░░░░░░░░   50.15 % 
+Python                   2 hrs 2 mins        █████████░░░░░░░░░░░░░░░░   35.42 % 
+Other                    20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Bash                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
+Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 hrs 45 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LaTeX                    2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   42.40 % 
+v                        46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+gen-j                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+c-users-lsq-desktop-26-1 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+y-p                      33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -79,7 +87,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 19:40:33 UTC
+ Last Updated on 18/07/2026 19:43:02 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
