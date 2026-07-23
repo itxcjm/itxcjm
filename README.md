@@ -9,8 +9,6 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-968.97%20thousand%20lines%20of%20code-blue?style=flat)
@@ -54,24 +52,24 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      3 hrs               ████████████░░░░░░░░░░░░░   48.95 % 
-Python                   2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.59 % 
-Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-BibTeX                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+TeX                      3 hrs               ██████████████░░░░░░░░░░░   55.95 % 
+Python                   1 hr 17 mins        ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
+Other                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+BibTeX                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LaTeX                    2 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.57 % 
-v                        46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-gen-j                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
-authorization_risk_framew34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-c-users-lsq-desktop-26-1 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+LaTeX                    2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   39.86 % 
+v                        46 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+gen-j                    37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+authorization_risk_framew34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+c-users-lsq-desktop-26-1 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
 
 💻 Operating System: 
-Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -87,7 +85,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/07/2026 19:53:31 UTC
+ Last Updated on 23/07/2026 19:56:30 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
