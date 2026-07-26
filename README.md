@@ -11,7 +11,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%202%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-932.58%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -54,27 +54,27 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
-Markdown                 1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-TeX                      1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
-Git                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Markdown                 3 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.27 % 
+Other                    1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
+Python                   25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+Git                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 55 mins       ███████████████████░░░░░░   74.28 % 
-IntelliJ IDEA            1 hr 15 mins        █████░░░░░░░░░░░░░░░░░░░░   18.92 % 
-Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+VS Code                  4 hrs 51 mins       █████████████████░░░░░░░░   69.86 % 
+IntelliJ IDEA            1 hr 38 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🐱‍💻 Projects: 
-ai-doc                   2 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   40.98 % 
-LaTeX                    49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-carbonquota              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-authorization_risk_framew34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-c-users-lsq-desktop-26-1 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+ai-doc                   4 hrs 41 mins       █████████████████░░░░░░░░   67.41 % 
+carbonquota              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+authorization_risk_framew34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+c-users-lsq-desktop-myp  19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+portal                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
 
 💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +90,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 19:43:27 UTC
+ Last Updated on 26/07/2026 19:45:02 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
