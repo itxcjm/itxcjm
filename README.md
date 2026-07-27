@@ -9,7 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-373%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2050%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-120%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -77,6 +79,28 @@ portal                   15 mins             █░░░░░░░░░░�
 Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 6 hrs 8 mins (88.2%)
+
+✍️ 9,629 lines written by AI, 49 lines written by hand (99.49% AI-written)
+
+🔤 1,027,997,390 Input Tokens, 5,659,621 Output Tokens
+
+💵 $4128.85 Estimated AI Cost This Week
+
+🧠 44 AI Sessions, 67 AI Prompts
+
+GPT                      9,815 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.49% of written lines came from AI
+📚 Verbose Prompter — average 4,408 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.72% of changed lines were hand-edited
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -90,7 +114,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 19:45:02 UTC
+ Last Updated on 27/07/2026 20:05:09 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
