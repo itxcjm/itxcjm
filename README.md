@@ -56,47 +56,45 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 3 hrs 58 mins       ██████████████░░░░░░░░░░░   55.43 % 
-Other                    1 hr 39 mins        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-Git                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-XML                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-TypeScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Markdown                 2 hrs 32 mins       █████████████░░░░░░░░░░░░   52.85 % 
+TypeScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Git Config               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 2 mins        ██████████████████░░░░░░░   70.39 % 
-IntelliJ IDEA            1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-Claude Code              13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-WebStorm                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+VS Code                  4 hrs 24 mins       ███████████████████████░░   91.78 % 
+IntelliJ IDEA            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
 
 🐱‍💻 Projects: 
-ai-doc                   4 hrs 51 mins       █████████████████░░░░░░░░   67.82 % 
-welcome                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
-carbonquota              34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-portal                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-新建文件夹 (2)                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+ai-doc                   2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.23 % 
+site                     1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+welcome                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
+charge                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+c-users-lsq-desktop-myp  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Windows                  7 hrs 10 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 50 mins (95.28%)
+⏱ AI Coding Time: 4 hrs 48 mins (100.0%)
 
-✍️ 11,004 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 7,325 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,033,718,452 Input Tokens, 5,707,744 Output Tokens
+🔤 896,030,988 Input Tokens, 4,625,693 Output Tokens
 
-💵 $4154.12 Estimated AI Cost This Week
+💵 $3594.91 Estimated AI Cost This Week
 
-🧠 48 AI Sessions, 79 AI Prompts
+🧠 23 AI Sessions, 50 AI Prompts
 
-GPT                      10,275 lines        █████████████████████████   100.00 % 
+GPT                      6,580 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,747 characters per prompt
+📚 Verbose Prompter — average 3,507 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
@@ -114,7 +112,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 20:03:13 UTC
+ Last Updated on 31/07/2026 20:03:44 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
