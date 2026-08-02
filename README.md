@@ -56,47 +56,46 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 2 hrs 32 mins       █████████████░░░░░░░░░░░░   52.85 % 
-TypeScript               37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Git Config               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-JSON                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+Markdown                 42 mins             ███████░░░░░░░░░░░░░░░░░░   27.17 % 
+TypeScript               37 mins             ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+Git Config               23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+JSON                     17 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       ███████████████████████░░   91.78 % 
-IntelliJ IDEA            23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+VS Code                  2 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ai-doc                   2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   44.23 % 
-site                     1 hr 23 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-welcome                  40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-charge                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-c-users-lsq-desktop-myp  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+site                     1 hr 23 mins        █████████████░░░░░░░░░░░░   53.72 % 
+welcome                  40 mins             ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+charge                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
+c-users-lsq-desktop-myp  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+c-users-lsq-desktop-myp-t1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Windows                  4 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 35 mins (100.0%)
 
-✍️ 7,325 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 5,483 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 896,030,988 Input Tokens, 4,625,693 Output Tokens
+🔤 32,056,764 Input Tokens, 120,087 Output Tokens
 
-💵 $3594.91 Estimated AI Cost This Week
+💵 $159.11 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 50 AI Prompts
+🧠 6 AI Sessions, 23 AI Prompts
 
-GPT                      6,580 lines         █████████████████████████   100.00 % 
+GPT                      4,684 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,507 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.01% of changed lines were hand-edited
+📝 Concise Prompter — average 96 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:44:12 UTC
+ Last Updated on 02/08/2026 19:44:35 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
