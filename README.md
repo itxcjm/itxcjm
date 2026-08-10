@@ -9,9 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2050%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2040%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-128%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -56,42 +56,42 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      1 hr 54 mins        ████████░░░░░░░░░░░░░░░░░   30.99 % 
-JavaScript               1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-JSON                     1 hr 25 mins        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Other                    39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
-XML                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Vue                      1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
+JavaScript               56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
+JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Other                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+XML                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-sjzuers                  6 hrs 11 mins       █████████████████████████   100.00 % 
+sjzuers                  4 hrs 20 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 5 mins (98.57%)
+⏱ AI Coding Time: 4 hrs 15 mins (97.97%)
 
-✍️ 4,376 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 2,935 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 56,856,183 Input Tokens, 351,875 Output Tokens
+🔤 36,809,493 Input Tokens, 246,181 Output Tokens
 
-💵 $300.21 Estimated AI Cost This Week
+💵 $202.13 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 87 AI Prompts
+🧠 11 AI Sessions, 59 AI Prompts
 
-GPT                      4,499 lines         █████████████████████████   100.00 % 
+GPT                      3,022 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 166 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.04% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 153 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +107,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:12:32 UTC
+ Last Updated on 10/08/2026 19:31:56 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
