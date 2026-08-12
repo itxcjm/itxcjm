@@ -32,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-🌆 Daytime                329 commits         ███████████░░░░░░░░░░░░░░   42.45 % 
-🌃 Evening                212 commits         ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-🌙 Night                  167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+🌞 Morning                67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+🌆 Daytime                332 commits         ███████████░░░░░░░░░░░░░░   42.62 % 
+🌃 Evening                213 commits         ███████░░░░░░░░░░░░░░░░░░   27.34 % 
+🌙 Night                  167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Tuesday                  83 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Wednesday                268 commits         █████████░░░░░░░░░░░░░░░░   34.58 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Monday                   67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Tuesday                  85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Wednesday                269 commits         █████████░░░░░░░░░░░░░░░░   34.53 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Friday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
+Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+Sunday                   59 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 
@@ -56,42 +56,48 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      1 hr 16 mins        ███████░░░░░░░░░░░░░░░░░░   29.57 % 
-JavaScript               56 mins             █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-JSON                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Other                    39 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-XML                      32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Vue                      2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   28.21 % 
+JavaScript               2 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+JSON                     1 hr 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Other                    1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+XML                      43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 20 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 47 mins       ███████████████████░░░░░░   75.57 % 
+Codex Vscode             2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
+Claude Code              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🐱‍💻 Projects: 
-sjzuers                  4 hrs 20 mins       █████████████████████████   100.00 % 
+sjzuers                  9 hrs 2 mins        ██████████████████████░░░   87.60 % 
+大创                       38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+sjzuers-admin            35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+jia-s                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  4 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  10 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 15 mins (97.97%)
+⏱ AI Coding Time: 10 hrs 15 mins (99.39%)
 
-✍️ 2,935 lines written by AI, 1 lines written by hand (99.97% AI-written)
+✍️ 9,522 lines written by AI, 7 lines written by hand (99.93% AI-written)
 
-🔤 36,809,493 Input Tokens, 246,181 Output Tokens
+🔤 63,922,524 Input Tokens, 640,184 Output Tokens
 
-💵 $202.13 Estimated AI Cost This Week
+💵 $370.12 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 59 AI Prompts
+🧠 18 AI Sessions, 152 AI Prompts
 
-GPT                      3,022 lines         █████████████████████████   100.00 % 
+GPT                      9,862 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 153 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.07% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 171 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -107,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:35:52 UTC
+ Last Updated on 12/08/2026 19:38:29 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
