@@ -9,9 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%2019%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-135%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,50 +56,50 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 24 mins      ██████████░░░░░░░░░░░░░░░   38.36 % 
-Python                   6 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-JavaScript               5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Vue                      4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
-JSON                     2 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Markdown                 13 hrs 26 mins      ███████████░░░░░░░░░░░░░░   42.85 % 
+Python                   6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+JavaScript               4 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Vue                      3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 🔥 Editors: 
-Codex Vscode             14 hrs 41 mins      ███████████░░░░░░░░░░░░░░   42.04 % 
-VS Code                  13 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   37.74 % 
-Claude Code              7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+Codex Vscode             12 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.03 % 
+VS Code                  11 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   36.69 % 
+Claude Code              6 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
 
 🐱‍💻 Projects: 
-sjzuers                  12 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   35.65 % 
-map                      6 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
-https-tianyu-360-cn-globa4 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-mode-unrestricted-codex-i2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-yu                       2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+sjzuers                  9 hrs               ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+map                      6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+https-tianyu-360-cn-globa4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+mode-unrestricted-codex-i2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+yu                       2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 💻 Operating System: 
-Windows                  34 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  31 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 hrs 55 mins (99.93%)
+⏱ AI Coding Time: 31 hrs 20 mins (99.93%)
 
-✍️ 16,988 lines written by AI, 7 lines written by hand (99.96% AI-written)
+✍️ 16,019 lines written by AI, 7 lines written by hand (99.96% AI-written)
 
-🔤 43,256,143 Input Tokens, 3,681,291 Output Tokens
+🔤 40,797,137 Input Tokens, 3,543,119 Output Tokens
 
-💵 $3104.22 Estimated AI Cost This Week
+💵 $3063.65 Estimated AI Cost This Week
 
-🧠 52 AI Sessions, 414 AI Prompts
+🧠 48 AI Sessions, 374 AI Prompts
 
-GPT                      8,218 lines         ████████████░░░░░░░░░░░░░   46.40 % 
-Deepseek                 6,116 lines         █████████░░░░░░░░░░░░░░░░   34.53 % 
-Opus                     3,377 lines         █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+GPT                      7,163 lines         ███████████░░░░░░░░░░░░░░   43.01 % 
+Deepseek                 6,116 lines         █████████░░░░░░░░░░░░░░░░   36.72 % 
+Opus                     3,377 lines         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.96% of written lines came from AI
-📄 Detailed Prompter — average 530 characters per prompt
+📄 Detailed Prompter — average 579 characters per prompt
 🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.04% of changed lines were hand-edited
 ```
@@ -108,8 +108,8 @@ Qwen                     0 lines             ░░░░░░░░░░░�
 
 ```text
 JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
 Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
 PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
@@ -117,7 +117,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 19:08:49 UTC
+ Last Updated on 18/08/2026 19:08:24 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
