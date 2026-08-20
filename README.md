@@ -56,52 +56,52 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 26 mins      ████████████░░░░░░░░░░░░░   46.03 % 
-Python                   6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-JavaScript               3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Vue                      1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown                 12 hrs 26 mins      ██████████████░░░░░░░░░░░   54.92 % 
+Python                   6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
+JavaScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+newLISP                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.63 % 
-Codex Vscode             8 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
-Claude Code              6 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+VS Code                  11 hrs 27 mins      █████████████░░░░░░░░░░░░   50.62 % 
+Claude Code              6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.87 % 
+Codex Vscode             4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
 
 🐱‍💻 Projects: 
-map                      6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.68 % 
-sjzuers                  4 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
-https-tianyu-360-cn-globa4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-mode-unrestricted-codex-i2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-yu                       2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+map                      6 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
+https-tianyu-360-cn-globa4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+mode-unrestricted-codex-i2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+yu                       2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+https-docs-qq-com-doc-dsw1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
 
 💻 Operating System: 
-Windows                  27 hrs              █████████████████████████   100.00 % 
+Windows                  22 hrs 38 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 59 mins (99.89%)
+⏱ AI Coding Time: 22 hrs 38 mins (99.97%)
 
-✍️ 13,502 lines written by AI, 7 lines written by hand (99.95% AI-written)
+✍️ 10,073 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 38,558,001 Input Tokens, 3,344,107 Output Tokens
+🔤 35,959,986 Input Tokens, 3,098,960 Output Tokens
 
-💵 $3028.62 Estimated AI Cost This Week
+💵 $2984.27 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 304 AI Prompts
+🧠 41 AI Sessions, 242 AI Prompts
 
-Deepseek                 6,116 lines         ███████████░░░░░░░░░░░░░░   44.19 % 
-GPT                      4,347 lines         ████████░░░░░░░░░░░░░░░░░   31.41 % 
-Opus                     3,377 lines         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
+Deepseek                 6,116 lines         ███████████████░░░░░░░░░░   59.37 % 
+Opus                     3,377 lines         ████████░░░░░░░░░░░░░░░░░   32.78 % 
+GPT                      808 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.95% of written lines came from AI
-📄 Detailed Prompter — average 686 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.05% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 804 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -117,7 +117,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/08/2026 19:04:07 UTC
+ Last Updated on 20/08/2026 19:11:21 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
