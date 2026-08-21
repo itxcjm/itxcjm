@@ -56,40 +56,40 @@ Sunday                   59 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 12 hrs 26 mins      ██████████████░░░░░░░░░░░   54.92 % 
-Python                   6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-JavaScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-newLISP                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Markdown                 12 hrs 26 mins      ██████████████░░░░░░░░░░░   56.37 % 
+Python                   6 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.68 % 
+JavaScript               2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+newLISP                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 27 mins      █████████████░░░░░░░░░░░░   50.62 % 
-Claude Code              6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.87 % 
-Codex Vscode             4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.51 % 
+VS Code                  10 hrs 55 mins      ████████████░░░░░░░░░░░░░   49.54 % 
+Claude Code              6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.69 % 
+Codex Vscode             4 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.77 % 
 
 🐱‍💻 Projects: 
-map                      6 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   30.64 % 
-https-tianyu-360-cn-globa4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-mode-unrestricted-codex-i2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
-yu                       2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-https-docs-qq-com-doc-dsw1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
+map                      6 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+https-tianyu-360-cn-globa4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.73 % 
+mode-unrestricted-codex-i2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+yu                       2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+https-docs-qq-com-doc-dsw1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
 
 💻 Operating System: 
-Windows                  22 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  22 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 22 hrs 38 mins (99.97%)
+⏱ AI Coding Time: 22 hrs 3 mins (99.97%)
 
 ✍️ 10,073 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 35,959,986 Input Tokens, 3,098,960 Output Tokens
+🔤 35,759,063 Input Tokens, 3,040,936 Output Tokens
 
-💵 $2984.27 Estimated AI Cost This Week
+💵 $2978.80 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 242 AI Prompts
+🧠 37 AI Sessions, 234 AI Prompts
 
 Deepseek                 6,116 lines         ███████████████░░░░░░░░░░   59.37 % 
 Opus                     3,377 lines         ████████░░░░░░░░░░░░░░░░░   32.78 % 
@@ -99,25 +99,25 @@ Qwen                     0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 804 characters per prompt
+📄 Detailed Prompter — average 810 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
-JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
-HTML                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+HTML                     7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+PHP                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
 
 
- Last Updated on 20/08/2026 19:11:21 UTC
+ Last Updated on 21/08/2026 19:07:50 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
