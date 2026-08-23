@@ -56,50 +56,45 @@ Sunday                   56 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 7 mins        ███████████████████░░░░░░   76.54 % 
-Python                   1 hr 54 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-JavaScript               47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Markdown                 3 hrs 51 mins       █████████████████████████   99.89 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 14 mins       █████████████░░░░░░░░░░░░   52.37 % 
-Codex Vscode             3 hrs 42 mins       ████████░░░░░░░░░░░░░░░░░   31.15 % 
-Claude Code              1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Codex Vscode             3 hrs 30 mins       ███████████████████████░░   90.88 % 
+VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
 
 🐱‍💻 Projects: 
-mode-unrestricted-codex-i2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-yu                       2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-https-tianyu-360-cn-globa2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
-map                      1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-sjzuers                  1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+mode-unrestricted-codex-i2 hrs 57 mins       ███████████████████░░░░░░   76.72 % 
+files-mentioned-by-the-us30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+yu                       17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+https-tianyu-360-cn-globa3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+you-are-codex-based-on-gp1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 💻 Operating System: 
-Windows                  11 hrs 55 mins      █████████████████████████   100.00 % 
+Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 55 mins (99.95%)
+⏱ AI Coding Time: 3 hrs 51 mins (99.83%)
 
-✍️ 3,638 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,909 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 19,922,109 Input Tokens, 2,109,342 Output Tokens
+🔤 13,539,813 Input Tokens, 823,994 Output Tokens
 
-💵 $2229.84 Estimated AI Cost This Week
+💵 $941.70 Estimated AI Cost This Week
 
-🧠 23 AI Sessions, 152 AI Prompts
+🧠 9 AI Sessions, 47 AI Prompts
 
-Deepseek                 2,526 lines         ████████████████░░░░░░░░░   66.00 % 
-Opus                     657 lines           ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-GPT                      644 lines           ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Qwen                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Deepseek                 1,332 lines         █████████████████░░░░░░░░   67.41 % 
+GPT                      644 lines           ████████░░░░░░░░░░░░░░░░░   32.59 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 1,164 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📄 Detailed Prompter — average 940 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -116,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/08/2026 18:59:01 UTC
+ Last Updated on 23/08/2026 18:58:33 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
