@@ -56,44 +56,43 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               56 mins             ██████████████░░░░░░░░░░░   57.38 % 
-Vue                      37 mins             ██████████░░░░░░░░░░░░░░░   38.40 % 
-Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript               56 mins             ███████████████░░░░░░░░░░   58.77 % 
+Vue                      37 mins             ██████████░░░░░░░░░░░░░░░   39.33 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 33 mins        ████████████████████████░   95.24 % 
-VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Codex Vscode             1 hr 31 mins        ████████████████████████░   95.12 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 
 🐱‍💻 Projects: 
-sjzuers                  1 hr 35 mins        ████████████████████████░   97.24 % 
-mode-unrestricted-codex-i2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
-CUMCM-Group-11           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+sjzuers                  1 hr 35 mins        █████████████████████████   99.59 % 
+CUMCM-Group-11           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 💻 Operating System: 
-Windows                  1 hr 38 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 37 mins (99.6%)
+⏱ AI Coding Time: 1 hr 35 mins (99.59%)
 
 ✍️ 798 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 733,759 Input Tokens, 97,646 Output Tokens
+🔤 729,641 Input Tokens, 96,906 Output Tokens
 
-💵 $20.54 Estimated AI Cost This Week
+💵 $20.48 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 21 AI Prompts
+🧠 2 AI Sessions, 20 AI Prompts
 
 GPT                      880 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 141 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
+📝 Concise Prompter — average 146 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -110,7 +109,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 19:10:52 UTC
+ Last Updated on 25/08/2026 19:09:45 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
