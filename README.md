@@ -56,49 +56,46 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 39 mins       ██████████████░░░░░░░░░░░   55.79 % 
-Vue                      1 hr 40 mins        ██████░░░░░░░░░░░░░░░░░░░   25.60 % 
-Python                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+JavaScript               3 hrs 26 mins       ███████████████░░░░░░░░░░   60.66 % 
+Vue                      1 hr 40 mins        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Python                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-Codex Vscode             5 hrs               ███████████████████░░░░░░   76.28 % 
-VS Code                  1 hr 30 mins        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-Claude Code              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Codex Vscode             4 hrs 17 mins       ███████████████████░░░░░░   75.64 % 
+VS Code                  1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
 
 🐱‍💻 Projects: 
-sjzuers                  6 hrs               ███████████████████████░░   91.63 % 
-sjzuers-admin            25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-map                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+sjzuers                  5 hrs 26 mins       ████████████████████████░   96.16 % 
+sjzuers-admin            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 💻 Operating System: 
-Windows                  6 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (100.0%)
+⏱ AI Coding Time: 5 hrs 39 mins (100.0%)
 
-✍️ 4,576 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,431 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 13,646,399 Input Tokens, 1,374,817 Output Tokens
+🔤 3,117,001 Input Tokens, 557,481 Output Tokens
 
-💵 $246.46 Estimated AI Cost This Week
+💵 $222.50 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 81 AI Prompts
+🧠 7 AI Sessions, 65 AI Prompts
 
-GPT                      4,427 lines         ███████████████████████░░   92.48 % 
-M                        360 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+GPT                      4,282 lines         ███████████████████████░░   92.24 % 
+M                        360 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
 Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 242 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 197 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -115,7 +112,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/08/2026 02:17:56 UTC
+ Last Updated on 29/08/2026 01:51:27 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
