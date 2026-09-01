@@ -56,47 +56,47 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      2 hrs 55 mins       █████████████████░░░░░░░░   67.47 % 
-JavaScript               1 hr 3 mins         ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Python                   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Vue                      2 hrs 53 mins       ███████████████░░░░░░░░░░   59.85 % 
+JavaScript               1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 55 mins       ███████████████████████░░   90.68 % 
-VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+Codex Vscode             4 hrs 28 mins       ███████████████████████░░   92.45 % 
+VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
 
 🐱‍💻 Projects: 
-sjzuers                  3 hrs 34 mins       █████████████████████░░░░   82.70 % 
-sjzuers-admin            42 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
-sjzu-zxfdy-frontend      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+sjzuers                  4 hrs 5 mins        █████████████████████░░░░   84.53 % 
+sjzuers-admin            42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+sjzu-zxfdy-frontend      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 c-data-sjzuers-proj-sjzu-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 17 mins (99.17%)
+⏱ AI Coding Time: 4 hrs 48 mins (99.26%)
 
-✍️ 2,943 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,078 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,084,740 Input Tokens, 219,314 Output Tokens
+🔤 2,481,755 Input Tokens, 242,613 Output Tokens
 
-💵 $41.75 Estimated AI Cost This Week
+💵 $45.89 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 50 AI Prompts
+🧠 9 AI Sessions, 57 AI Prompts
 
-GPT                      3,283 lines         █████████████████████████   100.00 % 
+GPT                      3,420 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 297 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 22:59:26 UTC
+ Last Updated on 01/09/2026 21:14:16 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
