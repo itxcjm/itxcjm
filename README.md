@@ -9,9 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%2059%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%207%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-137%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -56,47 +56,47 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Vue                      2 hrs 53 mins       ███████████████░░░░░░░░░░   59.85 % 
-JavaScript               1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   34.97 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Vue                      2 hrs 50 mins       ███████████████░░░░░░░░░░   59.67 % 
+JavaScript               1 hr 41 mins        █████████░░░░░░░░░░░░░░░░   35.59 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 28 mins       ███████████████████████░░   92.45 % 
-VS Code                  21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Codex Vscode             4 hrs 26 mins       ███████████████████████░░   93.27 % 
+VS Code                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 
 🐱‍💻 Projects: 
-sjzuers                  4 hrs 5 mins        █████████████████████░░░░   84.53 % 
-sjzuers-admin            42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-sjzu-zxfdy-frontend      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+sjzuers                  4 hrs               █████████████████████░░░░   84.25 % 
+sjzuers-admin            42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+sjzu-zxfdy-frontend      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 c-data-sjzuers-proj-sjzu-0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 48 mins (99.26%)
+⏱ AI Coding Time: 4 hrs 43 mins (99.25%)
 
-✍️ 3,078 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 2,921 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,481,755 Input Tokens, 242,613 Output Tokens
+🔤 2,357,036 Input Tokens, 236,050 Output Tokens
 
-💵 $45.89 Estimated AI Cost This Week
+💵 $44.15 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 57 AI Prompts
+🧠 7 AI Sessions, 53 AI Prompts
 
-GPT                      3,420 lines         █████████████████████████   100.00 % 
+GPT                      3,263 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 M                        0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 227 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 176 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:14:16 UTC
+ Last Updated on 02/09/2026 21:12:55 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
