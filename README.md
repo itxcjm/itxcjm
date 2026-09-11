@@ -9,7 +9,7 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs-blue?style=flat)
 
@@ -56,46 +56,45 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 20 mins       ████████████████████░░░░░   81.50 % 
-XML                      15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-JavaScript               14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Vue                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Java                     4 hrs               ████████████████████░░░░░   79.15 % 
+Vue                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-IntelliJ IDEA            3 hrs 33 mins       ██████████████████████░░░   86.95 % 
-Codex Vscode             27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-VS Code                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+IntelliJ IDEA            4 hrs 18 mins       █████████████████████░░░░   85.33 % 
+Codex Vscode             44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 
 🐱‍💻 Projects: 
-express-service          3 hrs 38 mins       ██████████████████████░░░   88.92 % 
-sjzuers                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+express-service          4 hrs 20 mins       █████████████████████░░░░   85.71 % 
+sjzuers                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 
 💻 Operating System: 
-Windows                  4 hrs 5 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 34 mins (14.09%)
+⏱ AI Coding Time: 54 mins (17.8%)
 
-✍️ 428 lines written by AI, 885 lines written by hand (32.6% AI-written)
+✍️ 883 lines written by AI, 885 lines written by hand (49.94% AI-written)
 
-🔤 262,915 Input Tokens, 38,416 Output Tokens
+🔤 470,607 Input Tokens, 47,736 Output Tokens
 
-💵 $5.81 Estimated AI Cost This Week
+💵 $8.74 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 13 AI Prompts
 
-GPT                      429 lines           █████████████████████████   100.00 % 
+GPT                      884 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.6% of written lines came from AI
-📝 Concise Prompter — average 386 characters per prompt
+⚖️ Balanced with AI — 49.94% of written lines came from AI
+📄 Detailed Prompter — average 540 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 71.65% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 55.13% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -111,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/09/2026 21:06:01 UTC
+ Last Updated on 11/09/2026 21:10:04 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
