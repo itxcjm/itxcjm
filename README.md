@@ -9,19 +9,19 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-389%20hrs%2034%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-139%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-923.87%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-924.38%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 17.8 kB Used in GitHub's Storage 
  > 
-> 🏆 145 Contributions in the Year 2026
+> 🏆 147 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-🌆 Daytime                332 commits         ███████████░░░░░░░░░░░░░░   43.51 % 
-🌃 Evening                198 commits         ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-🌙 Night                  167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.89 % 
+🌞 Morning                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+🌆 Daytime                332 commits         ███████████░░░░░░░░░░░░░░   43.40 % 
+🌃 Evening                200 commits         ███████░░░░░░░░░░░░░░░░░░   26.14 % 
+🌙 Night                  167 commits         █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Tuesday                  84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Wednesday                264 commits         █████████░░░░░░░░░░░░░░░░   34.60 % 
-Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.17 % 
-Saturday                 111 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Monday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+Tuesday                  84 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Wednesday                264 commits         █████████░░░░░░░░░░░░░░░░   34.51 % 
+Thursday                 52 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Friday                   131 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
 ```
 
 
@@ -56,61 +56,65 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs               ████████████████████░░░░░   79.15 % 
-Vue                      27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Java                     4 hrs 10 mins       █████████████████░░░░░░░░   67.83 % 
+Vue                      49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+XAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+JavaScript               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 18 mins       █████████████████████░░░░   85.33 % 
-Codex Vscode             44 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+IntelliJ IDEA            4 hrs 29 mins       ██████████████████░░░░░░░   72.90 % 
+Codex Vscode             1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Visual Studio            21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 
 🐱‍💻 Projects: 
-express-service          4 hrs 20 mins       █████████████████████░░░░   85.71 % 
-sjzuers                  43 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+express-service          4 hrs 30 mins       ██████████████████░░░░░░░   73.21 % 
+sjzuers                  1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+CardSync                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+da-su                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 54 mins (17.8%)
+⏱ AI Coding Time: 1 hr 36 mins (26.08%)
 
-✍️ 883 lines written by AI, 885 lines written by hand (49.94% AI-written)
+✍️ 1,642 lines written by AI, 1,115 lines written by hand (59.56% AI-written)
 
-🔤 470,607 Input Tokens, 47,736 Output Tokens
+🔤 589,439 Input Tokens, 69,260 Output Tokens
 
-💵 $8.74 Estimated AI Cost This Week
+💵 $11.13 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 13 AI Prompts
+🧠 8 AI Sessions, 18 AI Prompts
 
-GPT                      884 lines           █████████████████████████   100.00 % 
+GPT                      1,645 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 49.94% of written lines came from AI
-📄 Detailed Prompter — average 540 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 55.13% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.56% of written lines came from AI
+📄 Detailed Prompter — average 544 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 44.44% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+Python                   5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 ```
 
 
 
 
- Last Updated on 11/09/2026 21:10:04 UTC
+ Last Updated on 12/09/2026 20:49:16 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
