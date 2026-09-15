@@ -56,49 +56,49 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs 10 mins       ███████████████░░░░░░░░░░   59.03 % 
-XAML                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Binary                   51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Vue                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-XML                      15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Java                     2 hrs 32 mins       ████████████░░░░░░░░░░░░░   49.23 % 
+XAML                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
+Binary                   51 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Vue                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 25 mins       ████████████████░░░░░░░░░   62.57 % 
-Visual Studio            1 hr 56 mins        ███████░░░░░░░░░░░░░░░░░░   27.35 % 
-Codex Vscode             27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+IntelliJ IDEA            2 hrs 34 mins       █████████████░░░░░░░░░░░░   50.05 % 
+Visual Studio            1 hr 56 mins        █████████░░░░░░░░░░░░░░░░   37.65 % 
+Codex Vscode             22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+VS Code                  15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
 
 🐱‍💻 Projects: 
-express-service          4 hrs 30 mins       ████████████████░░░░░░░░░   63.71 % 
-CardSync                 2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   28.91 % 
-sjzuers                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+express-service          2 hrs 34 mins       █████████████░░░░░░░░░░░░   50.05 % 
+CardSync                 2 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.80 % 
+sjzuers                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 da-su                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (13.48%)
+⏱ AI Coding Time: 46 mins (15.09%)
 
-✍️ 1,182 lines written by AI, 2,369 lines written by hand (33.29% AI-written)
+✍️ 759 lines written by AI, 1,522 lines written by hand (33.27% AI-written)
 
-🔤 245,126 Input Tokens, 35,572 Output Tokens
+🔤 159,391 Input Tokens, 21,975 Output Tokens
 
-💵 $4.92 Estimated AI Cost This Week
+💵 $3.00 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 10 AI Prompts
+🧠 4 AI Sessions, 9 AI Prompts
 
-GPT                      1,185 lines         █████████████████████████   100.00 % 
+GPT                      761 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 33.29% of written lines came from AI
-📄 Detailed Prompter — average 688 characters per prompt
+⚖️ Balanced with AI — 33.27% of written lines came from AI
+📄 Detailed Prompter — average 584 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 72.63% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 73.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +114,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 21:58:40 UTC
+ Last Updated on 15/09/2026 21:39:26 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
