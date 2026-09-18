@@ -56,49 +56,49 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 14 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-XAML                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-Binary                   51 mins             █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Markdown                 27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Vue                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+XAML                     1 hr 9 mins         ████████░░░░░░░░░░░░░░░░░   31.07 % 
+Binary                   51 mins             ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Java                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Vue                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 
 🔥 Editors: 
-Visual Studio            1 hr 56 mins        ███████████░░░░░░░░░░░░░░   42.98 % 
-IntelliJ IDEA            1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-Codex Vscode             1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-VS Code                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+Visual Studio            1 hr 56 mins        █████████████░░░░░░░░░░░░   51.69 % 
+Codex Vscode             57 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+IntelliJ IDEA            34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
+VS Code                  16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 
 🐱‍💻 Projects: 
-CardSync                 2 hrs 2 mins        ███████████░░░░░░░░░░░░░░   45.43 % 
-express-service          1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   28.05 % 
-sjzuers                  1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   26.52 % 
+CardSync                 2 hrs 2 mins        ██████████████░░░░░░░░░░░   54.64 % 
+sjzuers                  1 hr 7 mins         ████████░░░░░░░░░░░░░░░░░   30.04 % 
+express-service          34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
 da-su                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 30 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 26 mins (32.16%)
+⏱ AI Coding Time: 1 hr 22 mins (36.83%)
 
 ✍️ 1,229 lines written by AI, 1,485 lines written by hand (45.28% AI-written)
 
-🔤 574,136 Input Tokens, 35,381 Output Tokens
+🔤 533,577 Input Tokens, 34,930 Output Tokens
 
-💵 $5.99 Estimated AI Cost This Week
+💵 $5.38 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 14 AI Prompts
+🧠 4 AI Sessions, 10 AI Prompts
 
 GPT                      1,231 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 45.28% of written lines came from AI
-📄 Detailed Prompter — average 696 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 62.61% of changed lines were hand-edited
+📄 Detailed Prompter — average 725 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 62.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +114,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 21:38:10 UTC
+ Last Updated on 18/09/2026 21:08:17 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
