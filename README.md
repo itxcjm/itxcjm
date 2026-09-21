@@ -9,9 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%2032%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-140%20hrs%2027%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-141%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -56,48 +56,48 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     33 mins             ██████░░░░░░░░░░░░░░░░░░░   24.52 % 
-XML                      27 mins             █████░░░░░░░░░░░░░░░░░░░░   20.40 % 
-Java                     27 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-Markdown                 26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-JavaScript               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+Vue                      1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   34.56 % 
+JSON                     1 hr 15 mins        ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+XML                      27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+Java                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Markdown                 26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
 
 🔥 Editors: 
-Codex Vscode             1 hr 30 mins        ████████████████░░░░░░░░░   65.88 % 
-IntelliJ IDEA            32 mins             ██████░░░░░░░░░░░░░░░░░░░   24.09 % 
-VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Codex Vscode             3 hrs 49 mins       █████████████████████░░░░   83.11 % 
+IntelliJ IDEA            32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+VS Code                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🐱‍💻 Projects: 
-sjzuers                  1 hr                ███████████░░░░░░░░░░░░░░   44.06 % 
-carbonquota2             31 mins             ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-express-service          23 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-sjzuers-admin            21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+sjzuers                  2 hrs 42 mins       ███████████████░░░░░░░░░░   58.63 % 
+sjzuers-admin            59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+carbonquota2             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+express-service          23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 36 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 39 mins (72.59%)
+⏱ AI Coding Time: 3 hrs 59 mins (86.43%)
 
-✍️ 1,203 lines written by AI, 2 lines written by hand (99.83% AI-written)
+✍️ 2,777 lines written by AI, 2 lines written by hand (99.93% AI-written)
 
-🔤 845,188 Input Tokens, 65,734 Output Tokens
+🔤 1,570,160 Input Tokens, 179,741 Output Tokens
 
-💵 $10.95 Estimated AI Cost This Week
+💵 $24.33 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 15 AI Prompts
+🧠 5 AI Sessions, 40 AI Prompts
 
-GPT                      1,203 lines         █████████████████████████   100.00 % 
+GPT                      2,848 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.83% of written lines came from AI
-📄 Detailed Prompter — average 684 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🤖 AI-Driven — 99.93% of written lines came from AI
+📝 Concise Prompter — average 307 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.07% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 21:00:39 UTC
+ Last Updated on 21/09/2026 22:13:03 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
