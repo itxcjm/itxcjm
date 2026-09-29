@@ -13,7 +13,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.84%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -56,49 +56,47 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-JavaScript               1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
-Vue                      1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-JSON                     53 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Java                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
+JavaScript               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Vue                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 29 mins       ██████████████░░░░░░░░░░░   57.96 % 
-IntelliJ IDEA            1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   30.02 % 
-VS Code                  43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Codex Vscode             2 hrs 25 mins       █████████████░░░░░░░░░░░░   53.26 % 
+IntelliJ IDEA            1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.11 % 
+VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
 
 🐱‍💻 Projects: 
-sjzuers                  3 hrs 27 mins       ██████████████░░░░░░░░░░░   57.43 % 
-sjzumc-auth              1 hr 57 mins        ████████░░░░░░░░░░░░░░░░░   32.58 % 
-carbonquota2             18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-sjzuers-admin            15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-new-chat                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+sjzuers                  2 hrs 24 mins       █████████████░░░░░░░░░░░░   52.63 % 
+sjzumc-auth              1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.85 % 
+sjzuers-admin            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+new-chat                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 5 mins (67.84%)
+⏱ AI Coding Time: 2 hrs 38 mins (57.7%)
 
-✍️ 4,522 lines written by AI, 47 lines written by hand (98.97% AI-written)
+✍️ 2,658 lines written by AI, 45 lines written by hand (98.34% AI-written)
 
-🔤 5,046,521 Input Tokens, 305,407 Output Tokens
+🔤 3,385,856 Input Tokens, 211,884 Output Tokens
 
-💵 $62.27 Estimated AI Cost This Week
+💵 $32.19 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 49 AI Prompts
+🧠 6 AI Sessions, 34 AI Prompts
 
-GPT                      4,710 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      2,752 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.97% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 1.34% of changed lines were hand-edited
+🤖 AI-Driven — 98.34% of written lines came from AI
+📝 Concise Prompter — average 177 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 2.2% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +112,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 23:27:34 UTC
+ Last Updated on 29/09/2026 22:32:15 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
