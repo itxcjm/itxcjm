@@ -15,7 +15,7 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.84%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.85%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -32,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-🌆 Daytime                335 commits         ███████████░░░░░░░░░░░░░░   43.34 % 
-🌃 Evening                203 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-🌙 Night                  169 commits         █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+🌞 Morning                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+🌆 Daytime                337 commits         ███████████░░░░░░░░░░░░░░   43.43 % 
+🌃 Evening                204 commits         ███████░░░░░░░░░░░░░░░░░░   26.29 % 
+🌙 Night                  169 commits         █████░░░░░░░░░░░░░░░░░░░░   21.78 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Tuesday                  85 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Wednesday                264 commits         █████████░░░░░░░░░░░░░░░░   34.15 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Monday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 % 
+Tuesday                  86 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Wednesday                265 commits         █████████░░░░░░░░░░░░░░░░   34.15 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Friday                   137 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 
 
@@ -56,47 +56,47 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 31 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
-Vue                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-JSON                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+Java                     1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.05 % 
+JavaScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
+Vue                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Git Config               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 25 mins       █████████████░░░░░░░░░░░░   53.26 % 
-IntelliJ IDEA            1 hr 30 mins        ████████░░░░░░░░░░░░░░░░░   33.11 % 
-VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+Codex Vscode             2 hrs 8 mins        █████████████░░░░░░░░░░░░   52.17 % 
+IntelliJ IDEA            1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.80 % 
+VS Code                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
 
 🐱‍💻 Projects: 
-sjzuers                  2 hrs 24 mins       █████████████░░░░░░░░░░░░   52.63 % 
-sjzumc-auth              1 hr 57 mins        ███████████░░░░░░░░░░░░░░   42.85 % 
-sjzuers-admin            9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
-new-chat                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+sjzuers                  2 hrs 4 mins        █████████████░░░░░░░░░░░░   50.66 % 
+sjzumc-auth              1 hr 57 mins        ████████████░░░░░░░░░░░░░   47.63 % 
+new-chat                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+sjzuers-admin            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 💻 Operating System: 
-Windows                  4 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 38 mins (57.7%)
+⏱ AI Coding Time: 2 hrs 20 mins (57.1%)
 
-✍️ 2,658 lines written by AI, 45 lines written by hand (98.34% AI-written)
+✍️ 2,276 lines written by AI, 45 lines written by hand (98.06% AI-written)
 
-🔤 3,385,856 Input Tokens, 211,884 Output Tokens
+🔤 3,346,989 Input Tokens, 188,139 Output Tokens
 
-💵 $32.19 Estimated AI Cost This Week
+💵 $29.92 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 34 AI Prompts
+🧠 5 AI Sessions, 33 AI Prompts
 
-GPT                      2,752 lines         █████████████████████████   100.00 % 
+GPT                      2,366 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.34% of written lines came from AI
-📝 Concise Prompter — average 177 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.2% of changed lines were hand-edited
+🤖 AI-Driven — 98.06% of written lines came from AI
+📝 Concise Prompter — average 182 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 2.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +112,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 22:32:15 UTC
+ Last Updated on 30/09/2026 22:30:01 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
