@@ -56,47 +56,47 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   37.05 % 
-JavaScript               1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Vue                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-Git Config               15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+Java                     1 hr 4 mins         ████████████░░░░░░░░░░░░░   46.41 % 
+Vue                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+JavaScript               16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+JSON                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Java Properties          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 8 mins        █████████████░░░░░░░░░░░░   52.17 % 
-IntelliJ IDEA            1 hr 30 mins        █████████░░░░░░░░░░░░░░░░   36.80 % 
-VS Code                  27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+IntelliJ IDEA            59 mins             ███████████░░░░░░░░░░░░░░   42.88 % 
+Codex Vscode             52 mins             █████████░░░░░░░░░░░░░░░░   37.77 % 
+VS Code                  26 mins             █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 
 🐱‍💻 Projects: 
-sjzuers                  2 hrs 4 mins        █████████████░░░░░░░░░░░░   50.66 % 
-sjzumc-auth              1 hr 57 mins        ████████████░░░░░░░░░░░░░   47.63 % 
-new-chat                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-sjzuers-admin            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+sjzumc-auth              1 hr 26 mins        ████████████████░░░░░░░░░   62.11 % 
+sjzuers                  48 mins             █████████░░░░░░░░░░░░░░░░   35.07 % 
+new-chat                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+sjzuers-admin            1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  4 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 20 mins (57.1%)
+⏱ AI Coding Time: 52 mins (37.95%)
 
-✍️ 2,276 lines written by AI, 45 lines written by hand (98.06% AI-written)
+✍️ 513 lines written by AI, 45 lines written by hand (91.94% AI-written)
 
-🔤 3,346,989 Input Tokens, 188,139 Output Tokens
+🔤 631,305 Input Tokens, 56,423 Output Tokens
 
-💵 $29.92 Estimated AI Cost This Week
+💵 $8.96 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 33 AI Prompts
+🧠 4 AI Sessions, 19 AI Prompts
 
-GPT                      2,366 lines         █████████████████████████   100.00 % 
+GPT                      581 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.06% of written lines came from AI
-📝 Concise Prompter — average 182 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.43% of changed lines were hand-edited
+🤖 AI-Driven — 91.94% of written lines came from AI
+📝 Concise Prompter — average 211 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 9.22% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -112,7 +112,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 22:30:01 UTC
+ Last Updated on 01/10/2026 22:51:11 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
