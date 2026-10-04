@@ -9,9 +9,9 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-403%20hrs%2051%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-147%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -56,45 +56,48 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               38 mins             ███████████░░░░░░░░░░░░░░   44.28 % 
-JSON                     29 mins             ████████░░░░░░░░░░░░░░░░░   33.73 % 
-Vue                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-IDEA_MODULE              5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+JavaScript               2 hrs 52 mins       ████████████████░░░░░░░░░   65.40 % 
+Vue                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+IDEA_MODULE              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 🔥 Editors: 
-Codex Vscode             34 mins             ██████████░░░░░░░░░░░░░░░   39.39 % 
-WebStorm                 29 mins             █████████░░░░░░░░░░░░░░░░   34.36 % 
-VS Code                  22 mins             ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+Codex Vscode             3 hrs 7 mins        ██████████████████░░░░░░░   70.97 % 
+WebStorm                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+VS Code                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 
 🐱‍💻 Projects: 
-sjzuers                  44 mins             █████████████░░░░░░░░░░░░   51.45 % 
-proxy                    42 mins             ████████████░░░░░░░░░░░░░   48.55 % 
+sjzuers                  3 hrs 2 mins        █████████████████░░░░░░░░   69.13 % 
+proxy                    1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
+jian-c                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (43.61%)
+⏱ AI Coding Time: 3 hrs 24 mins (77.3%)
 
-✍️ 426 lines written by AI, 9 lines written by hand (97.93% AI-written)
+✍️ 844 lines written by AI, 14 lines written by hand (98.37% AI-written)
 
-🔤 123,131 Input Tokens, 34,959 Output Tokens
+🔤 1,262,114 Input Tokens, 166,261 Output Tokens
 
-💵 $1.87 Estimated AI Cost This Week
+💵 $18.25 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 12 AI Prompts
+🧠 7 AI Sessions, 49 AI Prompts
 
-GPT                      458 lines           █████████████████████████   100.00 % 
+GPT                      946 lines           █████████████████████████   100.00 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.93% of written lines came from AI
-📝 Concise Prompter — average 51 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 4.38% of changed lines were hand-edited
+🤖 AI-Driven — 98.37% of written lines came from AI
+📝 Concise Prompter — average 218 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 1.87% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -110,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 21:39:54 UTC
+ Last Updated on 04/10/2026 21:47:40 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
