@@ -56,48 +56,48 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               2 hrs 52 mins       ████████████████░░░░░░░░░   65.40 % 
-Vue                      35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-IDEA_MODULE              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               2 hrs 37 mins       █████████████████░░░░░░░░   68.39 % 
+JSON                     28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Vue                      17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+IDEA_MODULE              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 7 mins        ██████████████████░░░░░░░   70.97 % 
-WebStorm                 51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-VS Code                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+Codex Vscode             2 hrs 33 mins       █████████████████░░░░░░░░   67.04 % 
+WebStorm                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
 
 🐱‍💻 Projects: 
-sjzuers                  3 hrs 2 mins        █████████████████░░░░░░░░   69.13 % 
-proxy                    1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-jian-c                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+sjzuers                  2 hrs 28 mins       ████████████████░░░░░░░░░   64.50 % 
+proxy                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   28.55 % 
+jian-c                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  4 hrs 24 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 49 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 24 mins (77.3%)
+⏱ AI Coding Time: 2 hrs 49 mins (73.89%)
 
-✍️ 844 lines written by AI, 14 lines written by hand (98.37% AI-written)
+✍️ 687 lines written by AI, 14 lines written by hand (98.0% AI-written)
 
-🔤 1,262,114 Input Tokens, 166,261 Output Tokens
+🔤 724,441 Input Tokens, 128,075 Output Tokens
 
-💵 $18.25 Estimated AI Cost This Week
+💵 $9.55 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 49 AI Prompts
+🧠 4 AI Sessions, 41 AI Prompts
 
-GPT                      946 lines           █████████████████████████   100.00 % 
+GPT                      789 lines           █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.37% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.87% of changed lines were hand-edited
+🤖 AI-Driven — 98.0% of written lines came from AI
+📝 Concise Prompter — average 194 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 2.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 00:15:36 UTC
+ Last Updated on 06/10/2026 22:45:44 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
