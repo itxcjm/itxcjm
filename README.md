@@ -56,48 +56,47 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               2 hrs 37 mins       ████████████████░░░░░░░░░   62.28 % 
-Vue                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
-IDEA_MODULE              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+JavaScript               2 hrs 37 mins       █████████████████░░░░░░░░   66.49 % 
+Vue                      38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+IDEA_MODULE              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 56 mins       █████████████████░░░░░░░░   69.98 % 
-WebStorm                 50 mins             █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Codex Vscode             2 hrs 41 mins       █████████████████░░░░░░░░   68.53 % 
+WebStorm                 49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+VS Code                  25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-sjzuers                  2 hrs 28 mins       ███████████████░░░░░░░░░░   58.83 % 
-proxy                    1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-sjzuers-admin            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-jian-c                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-new-chat                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+sjzuers                  2 hrs 28 mins       ████████████████░░░░░░░░░   62.80 % 
+proxy                    1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+sjzuers-admin            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.44 % 
+sjzumc-auth              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  4 hrs 12 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 12 mins (76.22%)
+⏱ AI Coding Time: 2 hrs 56 mins (74.61%)
 
 ✍️ 831 lines written by AI, 14 lines written by hand (98.34% AI-written)
 
-🔤 745,913 Input Tokens, 135,109 Output Tokens
+🔤 643,703 Input Tokens, 107,363 Output Tokens
 
-💵 $9.97 Estimated AI Cost This Week
+💵 $7.58 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 45 AI Prompts
+🧠 3 AI Sessions, 41 AI Prompts
 
 GPT                      937 lines           █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.34% of written lines came from AI
-📝 Concise Prompter — average 179 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
+📝 Concise Prompter — average 132 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
 🚀 High AI Trust — 1.88% of changed lines were hand-edited
 ```
 
@@ -114,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:31:42 UTC
+ Last Updated on 09/10/2026 22:49:31 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
