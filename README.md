@@ -21,11 +21,11 @@
 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
-> 🏆 157 Contributions in the Year 2026
+> 🏆 164 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 49 Public Repositories 
+> 📜 50 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -56,50 +56,50 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 52 mins       ███████████████░░░░░░░░░░   58.69 % 
-JavaScript               53 mins             █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-XML                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Kotlin                   2 hrs 52 mins       ██████████████████░░░░░░░   71.75 % 
+JavaScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 3 mins        █████████████████████░░░░   82.82 % 
-Android Studio           28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-IntelliJ IDEA            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Codex Vscode             3 hrs 19 mins       █████████████████████░░░░   83.00 % 
+Android Studio           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🐱‍💻 Projects: 
-slam                     2 hrs 59 mins       ███████████████░░░░░░░░░░   61.25 % 
-sjzuers                  1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   29.86 % 
-schedule-service         19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
-c-data-projects-slam     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-tutorlite                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+slam                     2 hrs 59 mins       ███████████████████░░░░░░   74.89 % 
+sjzuers                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+schedule-service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+c-data-projects-slam     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+tutorlite                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 💻 Operating System: 
-Windows                  4 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 12 mins (86.02%)
+⏱ AI Coding Time: 3 hrs 27 mins (86.26%)
 
-✍️ 2,514 lines written by AI, 18 lines written by hand (99.29% AI-written)
+✍️ 2,049 lines written by AI, 18 lines written by hand (99.13% AI-written)
 
-🔤 2,122,288 Input Tokens, 328,300 Output Tokens
+🔤 1,698,100 Input Tokens, 259,496 Output Tokens
 
-💵 $32.76 Estimated AI Cost This Week
+💵 $27.22 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 56 AI Prompts
+🧠 6 AI Sessions, 45 AI Prompts
 
-GPT                      2,668 lines         █████████████████████████   100.00 % 
+GPT                      2,151 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.29% of written lines came from AI
-📝 Concise Prompter — average 171 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0.71% of changed lines were hand-edited
+🤖 AI-Driven — 99.13% of written lines came from AI
+📝 Concise Prompter — average 191 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +115,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 20:58:50 UTC
+ Last Updated on 19/10/2026 22:34:31 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
