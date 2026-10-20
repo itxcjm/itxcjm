@@ -21,7 +21,7 @@
 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
-> 🏆 164 Contributions in the Year 2026
+> 🏆 166 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,49 +56,49 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 52 mins       ██████████████████░░░░░░░   71.75 % 
-JavaScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
-XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Kotlin                   2 hrs 52 mins       ██████████████████░░░░░░░   73.72 % 
+JavaScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
+XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Vue                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 19 mins       █████████████████████░░░░   83.00 % 
-Android Studio           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Codex Vscode             3 hrs 13 mins       █████████████████████░░░░   82.70 % 
+Android Studio           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🐱‍💻 Projects: 
-slam                     2 hrs 59 mins       ███████████████████░░░░░░   74.89 % 
-sjzuers                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-schedule-service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-c-data-projects-slam     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-tutorlite                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+slam                     2 hrs 59 mins       ███████████████████░░░░░░   76.95 % 
+sjzuers                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+schedule-service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+c-data-projects-slam     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+tutorlite                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 💻 Operating System: 
-Windows                  4 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 27 mins (86.26%)
+⏱ AI Coding Time: 3 hrs 21 mins (86.05%)
 
 ✍️ 2,049 lines written by AI, 18 lines written by hand (99.13% AI-written)
 
-🔤 1,698,100 Input Tokens, 259,496 Output Tokens
+🔤 1,681,197 Input Tokens, 253,779 Output Tokens
 
-💵 $27.22 Estimated AI Cost This Week
+💵 $26.49 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 45 AI Prompts
+🧠 5 AI Sessions, 43 AI Prompts
 
-GPT                      2,151 lines         █████████████████████████   100.00 % 
+GPT                      2,150 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.13% of written lines came from AI
-📝 Concise Prompter — average 191 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 186 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
 🚀 High AI Trust — 0.88% of changed lines were hand-edited
 ```
 
@@ -115,7 +115,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 22:34:31 UTC
+ Last Updated on 20/10/2026 21:48:36 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
