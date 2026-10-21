@@ -21,11 +21,11 @@
 
 > 📦 17.9 kB Used in GitHub's Storage 
  > 
-> 🏆 166 Contributions in the Year 2026
+> 🏆 167 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 51 Public Repositories 
  > 
 > 🔑 11 Private Repositories 
  > 
@@ -56,50 +56,49 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 52 mins       ██████████████████░░░░░░░   73.72 % 
-JavaScript               34 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.91 % 
-XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-Vue                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Kotlin                   2 hrs 52 mins       ████████████████████░░░░░   80.18 % 
+JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Vue                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🔥 Editors: 
-Codex Vscode             3 hrs 13 mins       █████████████████████░░░░   82.70 % 
-Android Studio           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
+Codex Vscode             2 hrs 58 mins       █████████████████████░░░░   83.06 % 
+Android Studio           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
 
 🐱‍💻 Projects: 
-slam                     2 hrs 59 mins       ███████████████████░░░░░░   76.95 % 
-sjzuers                  38 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-schedule-service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-c-data-projects-slam     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-tutorlite                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+slam                     2 hrs 59 mins       █████████████████████░░░░   83.69 % 
+sjzuers                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+schedule-service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+c-data-projects-slam     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+tutorlite                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 21 mins (86.05%)
+⏱ AI Coding Time: 3 hrs 6 mins (86.7%)
 
-✍️ 2,049 lines written by AI, 18 lines written by hand (99.13% AI-written)
+✍️ 2,024 lines written by AI, 16 lines written by hand (99.22% AI-written)
 
-🔤 1,681,197 Input Tokens, 253,779 Output Tokens
+🔤 1,253,872 Input Tokens, 233,054 Output Tokens
 
-💵 $26.49 Estimated AI Cost This Week
+💵 $24.62 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 43 AI Prompts
+🧠 4 AI Sessions, 39 AI Prompts
 
-GPT                      2,150 lines         █████████████████████████   100.00 % 
+GPT                      2,112 lines         █████████████████████████   100.00 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.13% of written lines came from AI
-📝 Concise Prompter — average 186 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.88% of changed lines were hand-edited
+🤖 AI-Driven — 99.22% of written lines came from AI
+📝 Concise Prompter — average 200 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 0.75% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -115,7 +114,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 21:48:36 UTC
+ Last Updated on 21/10/2026 21:54:50 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
