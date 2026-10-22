@@ -56,49 +56,45 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   2 hrs 52 mins       ████████████████████░░░░░   80.18 % 
-JavaScript               16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-XML                      14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Vue                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Kotlin                   1 hr 43 mins        ███████████████████████░░   90.17 % 
+XML                      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 58 mins       █████████████████████░░░░   83.06 % 
-Android Studio           28 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-IntelliJ IDEA            8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+Codex Vscode             1 hr 46 mins        ███████████████████████░░   92.88 % 
+IntelliJ IDEA            8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 🐱‍💻 Projects: 
-slam                     2 hrs 59 mins       █████████████████████░░░░   83.69 % 
-sjzuers                  19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-schedule-service         8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-c-data-projects-slam     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-tutorlite                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+slam                     1 hr 46 mins        ███████████████████████░░   92.88 % 
+schedule-service         8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+carbonquota2             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 6 mins (86.7%)
+⏱ AI Coding Time: 1 hr 46 mins (92.88%)
 
-✍️ 2,024 lines written by AI, 16 lines written by hand (99.22% AI-written)
+✍️ 677 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,253,872 Input Tokens, 233,054 Output Tokens
+🔤 548,798 Input Tokens, 122,248 Output Tokens
 
-💵 $24.62 Estimated AI Cost This Week
+💵 $14.19 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 39 AI Prompts
+🧠 2 AI Sessions, 17 AI Prompts
 
-GPT                      2,112 lines         █████████████████████████   100.00 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      689 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.22% of written lines came from AI
-📝 Concise Prompter — average 200 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 0.75% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 97 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -114,7 +110,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 21:54:50 UTC
+ Last Updated on 22/10/2026 21:51:55 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
