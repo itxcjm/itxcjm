@@ -56,42 +56,45 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Kotlin                   40 mins             ████████████████████████░   95.09 % 
-Git Config               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+PowerShell               25 mins             ██████████████████░░░░░░░   73.02 % 
+JavaScript               8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Codex Vscode             42 mins             █████████████████████████   99.91 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+VS Code                  33 mins             ████████████████████████░   97.54 % 
+IntelliJ IDEA            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🐱‍💻 Projects: 
-slam                     42 mins             █████████████████████████   99.91 % 
-carbonquota2             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+c-data-mc                21 mins             ████████████████░░░░░░░░░   64.05 % 
+sjzuers                  8 mins              ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+sjzuers-admin            3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+carbonquota2             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 42 mins (99.91%)
+⏱ AI Coding Time: 33 mins (97.54%)
 
-✍️ 361 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 69 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 338,398 Input Tokens, 66,809 Output Tokens
+🔤 268,747 Input Tokens, 21,519 Output Tokens
 
-💵 $8.61 Estimated AI Cost This Week
+💵 $1.90 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 6 AI Prompts
 
-GPT                      373 lines           █████████████████████████   100.00 % 
+GPT                      69 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 40 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 210 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -108,7 +111,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 21:35:49 UTC
+ Last Updated on 24/10/2026 21:05:07 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
