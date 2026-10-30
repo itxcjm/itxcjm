@@ -9,13 +9,13 @@
 ### 主要活跃于 [@moefire](https://github.com/moefire)
 ### Founder of [AS137908](https://moefire.net) (A Non-Profit & Education & Research Network operated by Moefire.)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-414%20hrs%2048%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2032%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-157%20hrs%2054%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.85%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-928.84%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -32,21 +32,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-🌆 Daytime                337 commits         ███████████░░░░░░░░░░░░░░   43.48 % 
-🌃 Evening                203 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-🌙 Night                  169 commits         █████░░░░░░░░░░░░░░░░░░░░   21.81 % 
+🌞 Morning                66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+🌆 Daytime                335 commits         ███████████░░░░░░░░░░░░░░   43.45 % 
+🌃 Evening                201 commits         ███████░░░░░░░░░░░░░░░░░░   26.07 % 
+🌙 Night                  169 commits         █████░░░░░░░░░░░░░░░░░░░░   21.92 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
-Wednesday                264 commits         █████████░░░░░░░░░░░░░░░░   34.06 % 
-Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Friday                   136 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+Monday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Wednesday                262 commits         ████████░░░░░░░░░░░░░░░░░   33.98 % 
+Thursday                 54 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Friday                   134 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+Saturday                 113 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Sunday                   55 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
 ```
 
 
@@ -56,48 +56,48 @@ Sunday                   55 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 45 mins        ███████████░░░░░░░░░░░░░░   42.58 % 
-PowerShell               29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-SQL                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Vue                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-XML                      20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+JavaScript               5 hrs 11 mins       ████████████░░░░░░░░░░░░░   48.94 % 
+Other                    3 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   30.73 % 
+PowerShell               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
+SQL                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Vue                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 32 mins       ███████████████░░░░░░░░░░   61.13 % 
-Codex Vscode             58 mins             ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
-IntelliJ IDEA            38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
+VS Code                  4 hrs 56 mins       ████████████░░░░░░░░░░░░░   46.47 % 
+IntelliJ IDEA            4 hrs 42 mins       ███████████░░░░░░░░░░░░░░   44.35 % 
+Codex Vscode             58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 🐱‍💻 Projects: 
-sjzuers                  2 hrs 54 mins       ██████████████████░░░░░░░   70.32 % 
-carbonquota2             27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-c-data-mc                21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-sjzuers-admin            11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-c-users-lsq-desktop-myp-p6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+new-chat                 6 hrs 36 mins       ████████████████░░░░░░░░░   62.21 % 
+sjzuers                  2 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+carbonquota2             26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+c-data-mc                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+sjzuers-admin            11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 
 💻 Operating System: 
-Windows                  4 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  10 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 11 mins (77.0%)
+⏱ AI Coding Time: 9 hrs 38 mins (90.87%)
 
-✍️ 1,768 lines written by AI, 30 lines written by hand (98.33% AI-written)
+✍️ 1,511 lines written by AI, 38 lines written by hand (97.55% AI-written)
 
-🔤 1,628,760 Input Tokens, 172,707 Output Tokens
+🔤 3,128,685 Input Tokens, 524,750 Output Tokens
 
-💵 $12.89 Estimated AI Cost This Week
+💵 $50.59 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 57 AI Prompts
+🧠 11 AI Sessions, 102 AI Prompts
 
-GPT                      2,039 lines         █████████████████████████   100.00 % 
+GPT                      1,782 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.33% of written lines came from AI
-📝 Concise Prompter — average 57 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.53% of changed lines were hand-edited
+🤖 AI-Driven — 97.55% of written lines came from AI
+📝 Concise Prompter — average 76 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 3.31% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -113,7 +113,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 22:55:34 UTC
+ Last Updated on 30/10/2026 22:35:22 UTC
 <!--END_SECTION:waka-->
 ![GithubStats](https://github-readme-stats-blue-three.vercel.app/api?username=itxcjm&show_icons=true&theme=light&layout=compact&locale=cn&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 ![Most Used Languages](https://github-readme-stats-blue-three.vercel.app/api/top-langs/?username=itxcjm&theme=light&layout=compact&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
